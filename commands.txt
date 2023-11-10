@@ -1,0 +1,27 @@
+1- We can insert with id 1, 3, 4, 7, 9, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21 
+
+
+2-{"patient_id":"1"} =====>search (find)
+3-{"overall_survival":1} =====>search
+4-{"primary_tumor_laterality":"Left"} =====>search
+
+Query Data in One-To-One Relations
+5-{"age_at_diagnosis":{"$gt": 50}}
+6-{"tumor_size":{"$lte": 20}}
+
+Query One-To-Many Relations
+7-{"$and":[{"type_of_breast_surgery": "MASTECTOMY"},{"chemotherapy": "1"}]} ====>in Treatment Information collection
+8-{"$or":[{"radio_therapy":"1"},{"hormone_therapy":"1"}]}
+
+$in Operator
+9-{"patient_id": {"$in": ["100", "101", "102"]}}
+
+$exists Operator
+10-{"mutation_count": {"$exists": true , "$nin":[1,2] }}
+
+11- tumor_size,1  =====>creat index ====>Tumor_Information collection
+12- tumor_stage,-1
+13-age_at_diagnosis,-1  =====>creat index ====>Patients collection
+14-age_at_diagnosis,-1 =====show index
+
+15-cancer_type,Breast Cancer,tumor_size,1  ===== aggregation (match and sort)

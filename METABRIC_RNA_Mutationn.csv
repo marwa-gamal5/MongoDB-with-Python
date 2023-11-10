@@ -1,0 +1,1905 @@
+patient_id,age_at_diagnosis,type_of_breast_surgery,cancer_type,cellularity,chemotherapy,er_status_measured_by_ihc,hormone_therapy,inferred_menopausal_state,primary_tumor_laterality,mutation_count,overall_survival,pr_status,radio_therapy,tumor_size,tumor_stage,death_from_cancer
+0,75.65,MASTECTOMY,Breast Cancer,,0,Positve,1,Post,Right,,1,Negative,1,22,2,Living
+2,43.19,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,Right,2,1,Positive,1,10,1,Living
+5,48.87,MASTECTOMY,Breast Cancer,High,1,Positve,1,Pre,Right,2,0,Positive,0,15,2,Died of Disease
+6,47.68,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Pre,Right,1,1,Positive,1,25,2,Living
+8,76.97,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Right,2,0,Positive,1,40,2,Died of Disease
+10,78.77,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,0,Positive,1,31,4,Died of Disease
+14,56.45,BREAST CONSERVING,Breast Cancer,Moderate,1,Positve,1,Post,Right,4,1,Positive,1,10,2,Living
+22,89.08,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,0,Negative,1,29,2,Died of Other Causes
+28,86.41,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,0,Negative,1,16,2,Died of Other Causes
+35,84.22,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Left,5,0,Negative,0,28,2,Died of Disease
+36,85.49,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,0,Positive,1,22,4,Died of Disease
+39,70.91,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,1,Positive,1,21,1,Living
+45,45.27,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,,1,Positive,1,19,2,Living
+46,83.02,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Positive,1,36,2,Died of Other Causes
+48,51.46,BREAST CONSERVING,Breast Cancer,Low,1,Positve,1,Post,Left,,1,Positive,1,25,2,Living
+50,44.64,BREAST CONSERVING,Breast Cancer,Moderate,1,Positve,1,Pre,Right,,1,Positive,1,33,2,Living
+53,70.02,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,,1,Negative,1,23,2,Living
+54,66.91,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,1,Positive,1,36,2,Living
+56,62.62,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,1,Positive,0,29,1,Living
+60,45.43,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Pre,Right,5,1,Positive,1,23,2,Living
+62,52.14,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,3,1,Negative,1,17,1,Living
+64,69.13,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,,1,Positive,0,18,1,Living
+66,61.49,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,1,Positive,1,16,2,Living
+68,51.01,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,2,1,Positive,1,12,2,Living
+79,50.42,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,4,0,Negative,1,40,2,Died of Disease
+81,49.61,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Right,4,1,Positive,1,24,2,Living
+83,64.85,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,0,Positive,1,13,1,Died of Disease
+93,43.55,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,Left,4,1,Positive,1,14,2,Living
+95,80.5,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Positive,1,55,3,Died of Other Causes
+97,78.19,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,1,Positive,1,30,2,Living
+100,68.68,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Post,Right,1,0,Negative,1,39,2,Died of Disease
+101,46.89,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Pre,Right,3,1,Positive,1,34,2,Living
+102,51.38,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Right,4,0,Positive,1,40,2,Died of Disease
+106,49.87,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Pre,Left,4,1,Positive,1,70,3,Living
+107,65.59,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,1,Positive,0,18,2,Living
+108,43.15,BREAST CONSERVING,Breast Cancer,Low,1,Positve,1,Pre,Right,2,0,Negative,1,18,1,Died of Disease
+109,82.53,,Breast Cancer,High,0,Positve,0,Post,,7,0,Positive,0,45,2,Died of Other Causes
+111,54.23,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,1,Positive,0,27,2,Living
+112,83.89,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,8,0,Negative,1,150,3,Died of Disease
+113,36.96,MASTECTOMY,Breast Cancer,Low,1,Positve,1,Pre,Right,,1,Negative,1,17,2,Living
+114,48.59,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Pre,Left,3,1,Positive,0,30,2,Living
+115,39.84,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Left,5,0,Negative,1,25,2,Died of Disease
+116,42.55,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Pre,Right,2,1,Positive,1,60,3,Living
+117,60.07,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,1,Negative,1,23,2,Living
+119,82.73,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Negative,1,23,2,Died of Disease
+120,72.1,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,0,Negative,1,26,2,Died of Disease
+121,78.73,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,1,Negative,1,30,2,Living
+122,58.95,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,1,Positive,1,20,2,Living
+123,76.89,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,8,0,Positive,0,25,2,Died of Other Causes
+124,43.46,BREAST CONSERVING,Breast Cancer,Low,1,Positve,1,Pre,Left,1,1,Positive,1,50,3,Living
+125,73.98,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Right,3,1,Positive,0,9,2,Living
+126,61.95,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,,1,Positive,1,35,2,Living
+127,52.11,BREAST CONSERVING,Breast Cancer,,1,Positve,1,Post,Right,5,1,Negative,1,13,2,Living
+128,57.4,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,4,1,Positive,1,14,1,Living
+129,63.53,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Post,Right,,0,Negative,1,24,2,Died of Other Causes
+130,56.75,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,,1,Negative,0,17,1,Living
+131,69.16,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Left,5,0,Negative,1,39,2,Died of Disease
+133,58.89,BREAST CONSERVING,Breast Cancer,Moderate,1,Positve,1,Post,Left,3,1,Negative,1,80,2,Living
+134,73.11,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,1,0,Negative,1,22,2,Died of Disease
+135,74.09,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,,1,Positive,1,35,2,Living
+136,72.3,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,2,1,Positive,0,13,1,Living
+138,51.33,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,1,Positive,0,18,1,Living
+139,47.62,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Right,1,1,Positive,1,30,2,Living
+140,74.07,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,1,1,Negative,1,27,2,Living
+142,57.99,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,,1,Positive,0,16,1,Living
+143,85.39,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Negative,1,22,2,Died of Other Causes
+144,79.73,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,1,26,,Died of Disease
+145,62.4,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,1,Positive,1,20,1,Living
+146,81,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,,0,Negative,1,22,2,Died of Other Causes
+147,79.28,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,2,0,Positive,1,38,2,Died of Disease
+148,53.16,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Left,3,1,Negative,0,19,1,Living
+149,77.13,BREAST CONSERVING,Breast Cancer,Low,0,Negative,0,Post,Right,2,0,Negative,1,39,2,Died of Other Causes
+150,70.22,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,11,1,Negative,0,20,2,Living
+151,67.7,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,0,Positive,1,50,3,Died of Disease
+152,63.77,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Right,8,1,Negative,0,12,1,Living
+154,62.46,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,1,Negative,0,12,1,Living
+155,62.72,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,1,Negative,1,9,1,Living
+157,71.5,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Post,Left,1,1,Negative,1,30,2,Living
+162,57.56,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,5,1,Positive,1,14,2,Living
+163,84.73,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,,14,0,Negative,0,27,,Died of Other Causes
+164,37.87,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,4,1,Negative,1,16,2,Living
+165,53.75,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Left,2,0,Negative,1,52,3,Died of Disease
+166,44.98,BREAST CONSERVING,Breast Cancer,Moderate,1,Positve,1,Pre,Right,2,1,Positive,1,24,2,Living
+167,76.4,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,9,0,Positive,1,38,2,Died of Disease
+168,60.26,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,1,1,Negative,1,17,1,Living
+170,83.35,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,3,0,Negative,1,26,2,Died of Other Causes
+171,64.57,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,1,Negative,1,27,2,Living
+172,48.11,MASTECTOMY,Breast Cancer,Low,1,Positve,1,Pre,Right,7,1,Positive,1,20,2,Living
+173,83.99,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,3,1,Positive,1,44,2,Living
+174,59.18,BREAST CONSERVING,Breast Cancer,Low,1,Negative,0,Post,Left,2,1,Negative,1,24,2,Living
+175,69.51,MASTECTOMY,Breast Cancer,,0,Positve,1,Post,Right,2,1,Negative,0,20,1,Living
+176,38.78,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Pre,Right,1,1,Positive,1,36,2,Living
+177,85.94,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,3,0,Positive,1,44,2,Died of Other Causes
+178,74.63,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Positive,1,21,2,Died of Disease
+179,56.39,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Post,Right,,0,Negative,1,34,3,Died of Disease
+180,51.69,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,1,Positive,1,18,1,Living
+181,68.45,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,1,Positive,1,21,2,Living
+184,68.41,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,1,Positive,0,25,2,Living
+188,82.65,MASTECTOMY,Breast Cancer,High,1,Positve,0,Post,Right,7,0,Negative,1,45,2,Died of Disease
+189,57.79,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Right,2,0,Negative,1,48,4,Died of Disease
+191,81.02,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Right,2,0,Negative,1,25,2,Died of Other Causes
+192,62.55,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,1,Negative,1,13,1,Living
+193,51.54,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,1,1,Positive,0,19,,Living
+194,56.45,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Right,5,1,Positive,1,21,2,Living
+195,75.18,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,2,1,Negative,1,28,2,Living
+197,50.48,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Left,2,1,Positive,1,24,2,Living
+198,43.37,MASTECTOMY,Breast Cancer,High,1,Positve,1,Pre,Right,3,1,Positive,1,18,2,Living
+199,57.56,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,1,1,Positive,1,19,2,Living
+200,69.86,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Post,Right,1,0,Negative,1,38,2,Died of Disease
+201,49.5,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Left,4,1,Negative,1,20,1,Living
+202,46,MASTECTOMY,Breast Cancer,High,1,Positve,1,Pre,Right,3,1,Positive,1,30,2,Living
+203,86.24,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Right,2,0,Positive,1,25,2,Died of Other Causes
+204,79.38,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,0,Negative,1,10,1,Died of Disease
+205,53.56,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,1,1,Negative,1,26,2,Living
+206,55.02,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,7,1,Negative,1,35,2,Living
+207,48.13,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Left,6,1,Positive,0,28,,Living
+209,67.17,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,,1,Negative,0,3,1,Living
+211,42.95,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Left,2,0,Negative,0,40,,Died of Disease
+214,41.41,BREAST CONSERVING,Breast Cancer,High,1,Positve,0,Pre,Left,4,1,Negative,1,27,2,Living
+215,75.63,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,11,1,Positive,1,40,2,Living
+218,43.39,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Pre,Left,2,1,Positive,1,20,2,Living
+220,37.24,MASTECTOMY,Breast Cancer,High,0,Positve,0,Pre,Right,1,0,Negative,0,20,2,Died of Disease
+221,77.72,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Post,Left,8,0,Negative,0,20,2,Died of Disease
+222,50.31,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Post,Right,6,1,Positive,1,20,2,Living
+223,50.45,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Right,5,0,Negative,1,20,2,Died of Disease
+224,44.01,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Pre,Right,8,1,Positive,0,25,,Living
+225,59.15,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,,1,Negative,0,19,1,Living
+226,58.21,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Right,4,1,Positive,1,20,2,Living
+227,52.95,BREAST CONSERVING,Breast Cancer,,0,Positve,1,Post,Left,4,1,Positive,0,24,1,Living
+228,63.35,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Post,Left,1,0,Positive,0,17,2,Died of Disease
+229,45.5,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,Right,5,1,Positive,1,19,1,Living
+230,41.98,MASTECTOMY,Breast Cancer,,0,,0,Pre,Left,2,1,Negative,0,35,0,Living
+231,71.57,BREAST CONSERVING,Breast Cancer,Low,0,,0,Post,Left,1,1,Negative,0,30,,Living
+232,44.73,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Right,3,1,Positive,0,14,1,Living
+233,77.77,BREAST CONSERVING,Breast Cancer,Moderate,0,,1,Post,Left,9,0,Positive,0,17,1,Died of Other Causes
+234,56.27,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Positive,1,26,2,Died of Other Causes
+235,52.55,BREAST CONSERVING,Breast Cancer,Low,1,Positve,1,Post,Left,3,0,Positive,1,20,2,Died of Disease
+236,43.63,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Pre,Right,1,1,Positive,1,27,2,Living
+238,52.19,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,1,1,Negative,1,35,2,Living
+239,77.85,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,2,0,Positive,1,46,3,Died of Disease
+241,55.09,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,6,0,Negative,0,29,2,Died of Disease
+242,51.25,BREAST CONSERVING,Breast Cancer,Moderate,0,,1,Post,Left,5,1,Positive,0,18,1,Living
+243,53.72,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Post,Right,4,1,Positive,1,22,2,Living
+244,67.83,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,1,1,Positive,0,11,1,Living
+245,54.76,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,13,1,Negative,0,14,1,Living
+247,66.75,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,1,Positive,1,15,2,Living
+248,45.76,MASTECTOMY,Breast Cancer,High,1,Positve,1,Pre,Right,,1,Positive,1,21,2,Living
+249,53.45,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Right,2,1,Negative,1,11,1,Living
+253,69.19,BREAST CONSERVING,Breast Cancer,,0,Positve,1,Post,Left,1,1,Positive,0,12,1,Living
+256,53.1,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,3,1,Positive,0,17,1,Living
+257,57.61,BREAST CONSERVING,Breast Cancer,Moderate,1,Positve,1,Post,Right,1,0,Negative,1,25,2,Died of Disease
+258,62.7,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,7,1,Positive,1,11,1,Living
+259,38.99,,Breast Cancer,High,1,Negative,0,Pre,,2,0,Negative,0,,3,Died of Disease
+260,78.26,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,1,0,Positive,1,12,1,Died of Other Causes
+261,63.93,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Positive,1,26,2,Died of Disease
+262,55.44,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Negative,0,26,2,Died of Other Causes
+263,76.49,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,0,Positive,0,27,1,Died of Other Causes
+264,83.93,MASTECTOMY,Breast Cancer,High,0,,0,Post,Left,4,0,Negative,0,31,,Died of Disease
+265,46.44,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Right,2,1,Negative,1,21,2,Living
+266,84.88,MASTECTOMY,Breast Cancer,Moderate,0,,1,Post,Left,7,0,Positive,1,30,2,Died of Other Causes
+268,66.54,,Breast Cancer,High,0,Positve,0,Post,,8,0,Positive,0,19,4,Died of Disease
+269,45.39,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Pre,Right,1,1,Negative,1,26,2,Living
+270,29.98,MASTECTOMY,Breast Cancer,High,0,Positve,0,Pre,Left,4,1,Positive,0,14,2,Living
+272,55.36,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,5,0,Negative,0,28,1,Died of Disease
+273,68.66,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,1,Negative,1,25,2,Living
+275,61.94,BREAST CONSERVING,Breast Cancer,,0,Positve,1,Post,Right,,1,Negative,1,9,1,Living
+278,34.3,,Breast Cancer,Moderate,1,Positve,0,Pre,,2,0,Negative,0,53,3,Died of Disease
+279,69.52,BREAST CONSERVING,Breast Cancer,,0,Positve,1,Post,Right,1,0,Positive,1,21,2,Died of Other Causes
+280,47.64,MASTECTOMY,Breast Cancer,,0,Positve,1,Pre,Right,,0,Positive,1,21,2,Died of Disease
+282,51.81,BREAST CONSERVING,Breast Cancer,Low,1,Positve,1,Post,Right,1,1,Positive,1,18,2,Living
+284,51.42,,Breast Sarcoma,Moderate,0,,0,Post,,2,1,Negative,0,,,Living
+285,48.07,,Breast Cancer,High,0,Positve,0,Pre,,4,1,Positive,0,28,2,Living
+286,62.92,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,,1,1,Negative,0,23,2,Living
+287,77.54,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,,2,0,Negative,0,19,2,Died of Other Causes
+288,55.22,MASTECTOMY,Breast Cancer,Low,1,Positve,1,Post,Left,2,0,Negative,0,30,2,Died of Disease
+289,75.91,MASTECTOMY,Breast Cancer,,0,Positve,1,Post,Right,,0,Negative,1,20,2,Died of Other Causes
+290,49.92,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Left,3,1,Positive,0,25,,Living
+291,51.19,BREAST CONSERVING,Breast Cancer,Moderate,1,Positve,1,Post,Right,1,0,Positive,0,26,2,Died of Disease
+292,80.34,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Left,5,0,Negative,0,55,2,Died of Other Causes
+293,51.62,MASTECTOMY,Breast Cancer,,0,Positve,1,Post,Right,,1,Negative,0,13,1,Living
+294,46.17,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Pre,Left,2,1,Negative,1,14,2,Living
+295,47.13,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Left,4,1,Positive,0,9,2,Living
+301,82.46,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,0,Positive,1,23,2,Died of Other Causes
+302,81.53,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,7,0,Negative,1,29,2,Died of Disease
+303,47.71,MASTECTOMY,Breast Cancer,Low,0,Negative,1,Pre,Left,3,1,Negative,0,11,1,Living
+304,84.85,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,1,0,Positive,1,14,,Died of Disease
+305,60.62,MASTECTOMY,Breast Cancer,Low,1,Positve,1,Post,Right,5,0,Positive,0,35,2,Died of Disease
+306,82.53,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,21,0,Positive,1,35,2,Died of Disease
+307,41.63,BREAST CONSERVING,Breast Cancer,Moderate,1,Positve,1,Pre,Right,,1,Negative,1,10,2,Living
+308,51.21,,Breast Cancer,Low,0,Positve,0,Post,,2,1,Negative,0,19,1,Living
+309,89.43,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,3,0,Positive,0,21,2,Died of Other Causes
+310,67.38,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,1,Positive,1,16,2,Living
+311,77.94,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Negative,0,47,2,Died of Other Causes
+312,70.49,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,,0,Positive,0,33,2,Died of Disease
+313,55.52,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,3,1,Positive,0,23,2,Living
+314,73.48,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Post,Left,4,0,Negative,0,50,2,Died of Disease
+315,56.32,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Right,5,1,Negative,1,50,2,Living
+316,50.82,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Left,4,1,Negative,1,30,2,Living
+317,76.68,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,4,0,Positive,0,39,,Died of Other Causes
+318,58.01,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Left,1,1,Negative,0,18,1,Living
+319,92.14,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,0,Negative,1,32,2,Died of Disease
+320,50.98,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,8,1,Positive,1,17,1,Living
+321,46.86,MASTECTOMY,Breast Cancer,High,1,Positve,1,Pre,Left,3,1,Positive,0,30,2,Living
+322,86.28,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,11,0,Negative,1,25,2,Died of Other Causes
+324,47.64,,Breast Cancer,Moderate,1,Positve,1,Pre,Left,1,0,Positive,1,32,2,Died of Disease
+325,79.34,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,10,1,Positive,1,45,2,Living
+328,69.62,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,9,0,Positive,1,34,2,Died of Disease
+336,74.76,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,1,0,Positive,1,22,2,Died of Disease
+339,90.43,MASTECTOMY,Breast Cancer,Moderate,0,,0,Post,Right,2,0,Positive,0,24,2,Died of Other Causes
+340,79.97,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,1,Negative,1,16,2,Living
+341,67.01,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,2,0,Positive,1,26,2,Died of Disease
+342,54.96,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,3,0,Positive,0,29,,Died of Disease
+343,70.51,MASTECTOMY,Breast Cancer,,0,Positve,1,Post,Left,4,0,Positive,0,30,2,Died of Disease
+344,59.75,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,1,Positive,1,29,2,Living
+345,37.3,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Pre,Right,6,1,Positive,0,28,2,Living
+346,32.61,MASTECTOMY,Breast Cancer,High,0,Negative,0,Pre,Left,8,0,Negative,0,16,2,Died of Disease
+348,81.88,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Positive,1,22,2,Died of Other Causes
+349,72.26,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,3,0,Negative,0,30,2,Died of Other Causes
+350,49.05,,Breast Cancer,High,0,Negative,0,Pre,,8,0,Negative,0,80,2,Died of Disease
+352,61.32,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Left,5,0,Negative,1,13,1,Died of Disease
+353,86.26,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Negative,1,40,2,Died of Other Causes
+354,73.01,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Left,6,0,Negative,0,17,2,Died of Disease
+356,58.16,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,4,1,Positive,0,16,2,Living
+358,57.87,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Right,14,1,Positive,1,26,2,Living
+359,44.21,,Breast Cancer,Moderate,0,Positve,0,Pre,,2,1,Positive,1,22,2,Living
+360,83.58,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,1,50,2,Died of Disease
+361,40.5,MASTECTOMY,Breast Cancer,High,0,Negative,0,Pre,Right,7,0,Negative,0,24,2,Died of Other Causes
+362,52.79,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Left,6,0,Positive,1,18,2,Died of Disease
+363,73.24,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,22,0,Negative,0,67,4,Died of Disease
+364,48.67,MASTECTOMY,Breast Cancer,High,1,Positve,1,Pre,Right,5,1,Negative,1,50,3,Living
+365,76.84,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Right,6,0,Negative,1,15,1,Died of Disease
+366,51.74,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,1,Positive,0,22,2,Living
+367,70.98,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,1,Negative,1,9,1,Living
+368,74.79,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Left,3,0,Positive,1,31,2,Died of Disease
+369,65.47,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Left,2,1,Negative,1,27,2,Living
+370,64.01,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Left,1,0,Negative,1,47,2,Died of Other Causes
+371,78.41,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,1,1,Negative,1,22,2,Living
+372,39.86,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Pre,Right,1,0,Negative,1,18,1,Died of Disease
+373,63.31,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Positive,1,24,2,Died of Disease
+374,34.68,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Right,2,1,Negative,0,25,2,Living
+375,72.69,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Right,3,1,Positive,1,23,2,Living
+377,63.25,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,1,Positive,1,12,1,Living
+378,57.15,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Right,13,0,Negative,1,28,2,Died of Disease
+379,48.22,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Pre,Right,5,1,Negative,1,29,2,Living
+380,83.9,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,4,0,Positive,1,25,2,Died of Other Causes
+381,33.65,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Pre,Right,6,1,Negative,1,21,2,Living
+382,59.05,BREAST CONSERVING,Breast Cancer,Moderate,1,Positve,1,Post,Right,3,1,Negative,1,22,2,Living
+383,65.02,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Negative,0,19,1,Died of Disease
+384,74.58,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,1,43,2,Died of Disease
+385,66.58,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Post,Left,1,0,Negative,1,31,2,Died of Disease
+386,66.83,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,1,Positive,1,15,3,Living
+388,46.63,MASTECTOMY,Breast Cancer,Low,1,Positve,1,Pre,Left,3,1,Negative,1,28,2,Living
+389,46.87,MASTECTOMY,Breast Cancer,High,1,Positve,1,Pre,Right,1,1,Positive,1,50,3,Living
+391,61.23,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Post,Left,1,1,Negative,1,50,3,Living
+392,56.28,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Left,2,0,Positive,0,30,4,Died of Disease
+393,68.74,MASTECTOMY,Breast Cancer,Low,1,Positve,1,Post,Left,3,0,Positive,1,53,3,Died of Disease
+394,56.48,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,1,Positive,1,20,1,Living
+395,80.38,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Left,11,0,Negative,1,50,2,Died of Disease
+396,56.45,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Left,6,1,Negative,1,27,2,Living
+397,58.56,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,3,1,Positive,1,11,1,Living
+398,56.41,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,0,Negative,1,42,3,Died of Disease
+399,68.47,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Post,Left,2,0,Negative,1,45,3,Died of Other Causes
+400,55.28,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Post,Right,2,0,Negative,0,16,1,Died of Disease
+401,48.58,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Right,2,0,Negative,1,20,1,Died of Disease
+402,73.06,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,1,1,Positive,1,11,1,Living
+404,60.71,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,1,Positive,1,15,2,Living
+406,69.32,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Left,5,0,Negative,1,180,3,Died of Disease
+410,57.41,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,3,1,Positive,1,20,1,Living
+411,54.6,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Left,3,1,Negative,1,18,2,Living
+412,54.06,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,1,1,Negative,1,19,2,Living
+413,56.58,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Post,Left,3,1,Positive,1,47,2,Living
+414,72.16,BREAST CONSERVING,Breast Cancer,Low,0,Negative,0,Post,Left,7,1,Negative,1,21,2,Living
+417,54.22,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,2,0,Positive,1,40,2,Died of Disease
+418,58.72,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,1,1,Negative,1,31,2,Living
+419,77.92,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,3,0,Positive,1,21,2,Died of Other Causes
+420,34.92,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,3,1,Negative,1,16,1,Living
+421,73.53,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,7,0,Positive,0,24,2,Died of Other Causes
+422,66.72,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,3,0,Positive,1,16,2,Died of Other Causes
+424,44.02,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Left,,0,Negative,1,60,3,Died of Disease
+425,83.17,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Positive,1,22,2,Died of Other Causes
+426,50.48,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Right,3,1,Positive,1,42,2,Living
+427,81.89,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,1,Negative,1,21,2,Living
+428,85.21,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,1,Negative,1,20,2,Living
+429,78.86,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,3,0,Positive,1,40,2,Died of Other Causes
+431,63.61,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,1,Negative,1,57,2,Living
+434,69.79,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Right,5,0,Negative,0,20,2,Died of Disease
+436,88.29,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Post,Left,2,0,Negative,1,13,1,Died of Other Causes
+437,82.17,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Right,3,1,Positive,1,15,2,Living
+438,57.41,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,1,1,Negative,1,25,2,Living
+439,50.32,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,1,1,Positive,0,15,1,Living
+440,56.73,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Post,Left,5,1,Negative,1,26,2,Living
+442,71.58,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Right,4,0,Negative,0,17,2,Died of Disease
+443,61.67,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,1,Positive,1,26,2,Living
+444,49.87,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Left,,0,Positive,1,33,4,Died of Disease
+445,40.07,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Pre,Left,1,1,Positive,1,23,2,Living
+446,56.96,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Right,4,1,Negative,0,24,2,Living
+449,54.38,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Right,3,1,Positive,1,35,2,Living
+451,63.2,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,1,Negative,0,16,1,Living
+452,54.43,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,1,Negative,1,23,2,Living
+453,61.11,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Right,4,0,Negative,1,100,3,Died of Disease
+454,90.02,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,,0,Positive,1,20,1,Died of Other Causes
+455,56.84,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,1,Positive,1,18,1,Living
+458,49.28,MASTECTOMY,Breast Cancer,Low,1,Positve,1,Pre,Left,1,1,Positive,1,50,2,Living
+459,85.09,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,5,0,Negative,1,34,3,Died of Other Causes
+460,81.44,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,,0,Positive,1,22,2,Died of Disease
+462,60.5,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,1,1,Negative,1,16,1,Living
+463,60.48,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,10,0,Positive,1,21,1,Died of Disease
+464,58.98,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Post,Right,2,0,Negative,1,13,3,Died of Disease
+465,87.18,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,0,Negative,0,26,2,Died of Disease
+466,33.97,MASTECTOMY,Breast Cancer,High,1,Positve,1,Pre,Left,1,1,Negative,1,70,2,Living
+467,58.35,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Left,3,0,Negative,0,13,1,Died of Disease
+468,60.95,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Left,3,0,Negative,1,26,2,Died of Other Causes
+469,67.94,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Left,1,1,Positive,1,39,2,Living
+470,61.78,BREAST CONSERVING,Breast Cancer,,0,Positve,1,Post,Left,4,1,Negative,1,15,1,Living
+471,76.49,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,1,Positive,1,17,1,Living
+472,59.34,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,2,1,Positive,1,11,0,Living
+474,54.29,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Right,2,0,Positive,1,80,3,Died of Disease
+475,54.15,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,1,Positive,1,20,1,Living
+476,54.62,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Left,1,1,Negative,1,25,2,Living
+478,74.02,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,1,1,Positive,1,23,2,Living
+479,33.83,MASTECTOMY,Breast Cancer,High,1,Negative,1,Pre,Left,1,1,Negative,1,22,2,Living
+480,51.86,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,4,1,Negative,1,13,1,Living
+481,54.22,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Left,2,0,Negative,1,19,1,Died of Disease
+482,39.53,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Pre,Right,2,0,Negative,1,16,2,Died of Disease
+483,49.61,MASTECTOMY,Breast Cancer,High,1,Positve,1,Pre,Left,2,0,Positive,1,21,2,Died of Disease
+484,38.72,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Pre,Left,5,1,Positive,1,22,2,Living
+485,60.78,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Right,4,0,Negative,1,50,3,Died of Disease
+486,57.57,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Left,1,1,Positive,1,32,2,Living
+487,57.36,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Post,Right,1,1,Positive,1,15,1,Living
+488,50.64,MASTECTOMY,Breast Cancer,,0,Positve,1,Post,Left,,1,Positive,1,25,2,Living
+489,41.46,MASTECTOMY,Breast Cancer,Low,1,Negative,1,Pre,Right,1,1,Negative,0,10,1,Living
+490,81.9,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,2,1,Positive,1,30,3,Living
+491,43.4,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Right,2,1,Positive,1,30,3,Living
+492,85.21,BREAST CONSERVING,Breast Cancer,,0,Positve,1,Post,Right,1,0,Positive,1,28,2,Died of Other Causes
+494,77.22,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Left,2,0,Negative,1,40,3,Died of Disease
+495,63.19,MASTECTOMY,Breast Cancer,Low,1,Positve,1,Post,Right,2,0,Negative,1,19,2,Died of Disease
+496,60,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Right,2,1,Positive,1,26,2,Living
+497,57.27,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,7,1,Positive,1,29,2,Living
+500,36.56,BREAST CONSERVING,Breast Cancer,High,1,Positve,0,Pre,Right,1,1,Negative,1,22,2,Living
+501,48.93,BREAST CONSERVING,Breast Cancer,Moderate,1,Positve,1,Pre,Right,1,1,Positive,1,21,2,Living
+502,56.41,BREAST CONSERVING,Breast Cancer,Low,1,Positve,1,Post,Left,,1,Negative,1,30,2,Living
+503,60.77,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,1,Positive,1,23,2,Living
+504,68.16,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,1,Positive,1,21,2,Living
+505,56.38,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,1,Positive,1,12,2,Living
+506,60.74,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Left,2,0,Positive,1,21,2,Died of Disease
+507,58.71,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,1,1,Positive,1,18,1,Living
+508,42.68,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Pre,Left,,1,Negative,0,11,1,Living
+509,41.48,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Pre,Right,2,1,Positive,1,11,1,Living
+510,71.84,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,,1,Positive,1,60,3,Living
+511,59.84,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,1,Positive,1,31,2,Living
+512,56.74,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,1,Positive,1,24,2,Living
+513,73.39,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,3,1,Positive,1,32,2,Living
+514,42.89,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Pre,Right,7,1,Positive,1,20,2,Living
+516,62.81,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Right,3,1,Negative,1,15,1,Living
+517,47.92,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Right,2,1,Positive,1,17,1,Living
+519,61.99,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Right,1,1,Negative,1,65,3,Living
+521,52.2,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,1,Positive,1,30,2,Living
+522,54.08,,Breast Cancer,Low,0,Negative,0,Post,,7,1,Negative,0,,0,Living
+524,40.65,BREAST CONSERVING,Breast Cancer,Moderate,1,Positve,1,Pre,Right,9,1,Negative,0,10,2,Living
+525,48.47,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Right,6,1,Negative,1,25,2,Living
+526,72.18,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,,7,0,Positive,0,15,,Died of Other Causes
+527,73.22,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,1,0,Positive,1,19,2,Died of Other Causes
+528,53.64,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Left,3,1,Negative,1,26,2,Living
+529,67.46,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Right,7,0,Positive,0,25,4,Died of Disease
+531,60.12,MASTECTOMY,Breast Cancer,,1,Negative,1,Post,Left,6,1,Positive,1,16,1,Living
+532,59.07,MASTECTOMY,Breast Cancer,High,1,Negative,1,Post,Right,5,0,Positive,1,35,2,Died of Disease
+534,51.56,MASTECTOMY,Breast Cancer,Low,1,Positve,1,Post,Right,12,1,Positive,1,17,2,Living
+535,46.66,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Pre,Left,3,1,Positive,1,12,1,Living
+536,67.88,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,2,0,Negative,1,20,1,Died of Other Causes
+537,59.8,BREAST CONSERVING,Breast Cancer,,1,Positve,1,Post,Left,1,1,Negative,1,14,2,Living
+538,61.89,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Right,,0,Positive,1,37,2,Died of Disease
+540,66.11,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,,1,Negative,1,12,1,Living
+541,38.86,MASTECTOMY,Breast Cancer,High,1,Positve,1,Pre,Right,2,1,Negative,1,19,1,Living
+542,39.3,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Pre,Left,4,0,Positive,1,23,2,Died of Disease
+544,74.46,MASTECTOMY,Breast Cancer,Low,1,Positve,1,Post,Left,3,0,Positive,1,52,3,Died of Other Causes
+545,83.92,,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,0,Negative,1,26,2,Died of Other Causes
+550,60.12,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,4,0,Negative,0,15,,Died of Disease
+551,76.32,MASTECTOMY,Breast Cancer,,0,Positve,1,Post,Left,2,0,Positive,1,32,2,Died of Disease
+552,61.53,MASTECTOMY,Breast Cancer,,1,Positve,1,Post,Right,4,0,Negative,1,29,2,Died of Disease
+553,86.99,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,0,Negative,1,20,2,Died of Other Causes
+554,82.35,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,10,0,Positive,0,16,1,Died of Other Causes
+558,69.88,MASTECTOMY,Breast Cancer,,0,Negative,0,Post,Right,8,0,Negative,0,28,2,Died of Other Causes
+559,47.71,MASTECTOMY,Breast Cancer,High,1,Positve,1,Pre,Left,3,1,Positive,0,25,2,Living
+568,61.28,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,1,Positive,0,17,2,Living
+569,74.96,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Left,3,0,Positive,1,23,2,Died of Disease
+570,68.99,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,9,1,Positive,1,20,2,Living
+571,61.79,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,9,1,Positive,1,20,1,Living
+573,76.22,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,,,0,Positive,1,65,0,Died of Other Causes
+574,71.21,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,5,1,Positive,1,21,2,Living
+575,48.1,MASTECTOMY,Breast Cancer,High,1,Positve,1,Pre,Left,3,1,Positive,1,55,3,Living
+576,68.47,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Positive,1,21,2,Died of Disease
+577,51.42,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,3,1,Negative,1,10,1,Living
+578,59.64,MASTECTOMY,Breast Cancer,Low,1,Positve,1,Post,Left,2,1,Positive,1,42,2,Living
+579,70.53,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,0,Negative,1,29,2,Died of Other Causes
+580,33.8,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Pre,Left,2,0,Positive,1,40,2,Died of Disease
+581,96.29,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Post,Right,5,0,Negative,1,26,2,Died of Disease
+582,84.76,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Right,6,0,Negative,0,30,2,Died of Other Causes
+583,75.67,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,3,1,Positive,0,22,2,Living
+584,41.31,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Right,1,1,Positive,0,20,1,Living
+585,76.72,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,3,0,Negative,1,28,2,Died of Disease
+586,77.99,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,4,0,Negative,1,65,3,Died of Other Causes
+587,50.41,MASTECTOMY,Breast Cancer,Low,1,Positve,1,Post,Left,5,1,Positive,1,24,2,Living
+588,76.35,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Right,2,1,Negative,0,22,2,Living
+589,59.96,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,1,Negative,1,35,4,Living
+590,60.27,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Right,1,0,Positive,1,30,2,Died of Other Causes
+591,84,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Negative,0,17,1,Died of Disease
+593,62.34,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,2,0,Negative,1,90,3,Died of Disease
+594,77.96,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,6,1,Negative,1,45,3,Living
+596,77.48,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,1,16,1,Died of Other Causes
+597,64.55,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Left,3,0,Positive,1,17,2,Died of Other Causes
+598,77.48,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,0,Positive,1,24,2,Died of Disease
+599,46.85,BREAST CONSERVING,Breast Cancer,Moderate,1,Positve,1,Pre,Right,3,1,Negative,1,24,2,Living
+600,70.5,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,1,Negative,1,27,2,Living
+601,32.99,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Pre,Right,2,0,Negative,1,25,2,Died of Disease
+603,79.52,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,1,Positive,0,21,2,Living
+605,58.08,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,3,1,Positive,0,18,1,Living
+606,83.19,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,,0,Negative,0,18,1,Died of Disease
+607,53.1,,Breast Cancer,Moderate,1,Positve,1,Post,Left,5,1,Positive,1,30,2,Living
+608,76.81,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Right,10,0,Negative,1,25,2,Died of Other Causes
+609,51.15,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Left,2,0,Negative,0,14,2,Died of Disease
+610,71.3,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,,1,Negative,1,18,2,Living
+611,75.65,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,3,1,Positive,0,24,2,Living
+613,60.2,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Right,3,1,Negative,1,60,3,Living
+614,48.99,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Pre,Left,4,1,Positive,0,19,2,Living
+615,38.75,MASTECTOMY,Breast Cancer,,0,Negative,0,Pre,,1,1,Negative,0,3,,Living
+616,75.98,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Negative,1,38,2,Died of Other Causes
+617,72.14,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,,0,Negative,0,40,2,Died of Other Causes
+618,63.86,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,1,Positive,0,17,1,Living
+619,38.9,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Pre,Left,1,1,Negative,1,25,2,Living
+620,62.97,BREAST CONSERVING,Breast Cancer,,1,Positve,1,Post,Right,,1,Negative,1,14,2,Living
+621,70.04,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,2,1,Positive,1,30,2,Living
+623,66.52,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Right,2,1,Positive,1,12,1,Living
+624,64.28,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,1,Negative,0,16,2,Living
+626,61.11,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,6,0,Negative,1,20,2,Died of Disease
+627,54.1,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Post,Right,3,1,Negative,0,20,,Living
+628,63.98,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,,1,Negative,1,10,1,Living
+630,38.35,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Pre,Right,2,1,Positive,1,20,1,Living
+631,84.41,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Left,3,0,Positive,1,25,2,Died of Disease
+632,51.92,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,1,Negative,1,20,1,Living
+634,55.99,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,,1,Negative,0,5,,Living
+636,26.36,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,Right,1,0,Positive,1,12,1,Died of Disease
+637,75.71,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,1,Positive,1,31,2,Living
+638,66.95,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,2,0,Negative,1,32,2,Died of Other Causes
+639,50.39,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Left,3,1,Negative,1,18,1,Living
+640,66.09,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,3,1,Positive,1,13,1,Living
+641,56.34,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,,1,Negative,1,14,2,Living
+642,79.12,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,2,0,Positive,1,20,1,Died of Other Causes
+643,73.46,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Negative,1,60,3,Died of Other Causes
+644,71.06,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,1,Positive,1,30,3,Living
+646,67.06,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Negative,1,33,2,Died of Disease
+649,60.62,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,1,Positive,1,8,2,Living
+650,79.48,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,3,1,Negative,1,21,2,Living
+652,85.12,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,0,Positive,0,21,2,Died of Disease
+653,69.95,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,22,0,Negative,1,28,2,Died of Disease
+654,82.5,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,1,Positive,1,24,2,Living
+655,69.73,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,4,1,Positive,0,60,1,Living
+656,35.9,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,4,0,Negative,1,100,3,Died of Disease
+657,58.65,,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,1,Negative,1,100,2,Living
+658,60.89,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Post,Left,3,1,Negative,1,25,2,Living
+659,82.87,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Post,Left,2,0,Negative,1,45,,Died of Disease
+660,52.43,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Right,5,0,Negative,1,160,1,Died of Disease
+661,78.78,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,,0,Positive,0,8,1,Died of Disease
+662,50.94,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Positive,1,14,1,Died of Disease
+663,57.76,,Breast Cancer,High,1,Negative,0,Post,Left,1,1,Negative,0,16,1,Living
+664,78.27,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,7,0,Negative,1,84,3,Died of Disease
+666,61.31,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Post,Right,1,0,Positive,1,25,2,Died of Disease
+869,58.83,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Post,Right,2,0,Negative,1,29,2,Died of Other Causes
+872,82.34,MASTECTOMY,Breast Cancer,,0,Positve,1,Post,Right,7,0,Positive,1,14,2,Died of Other Causes
+874,59.22,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,2,0,Negative,1,39,2,Died of Disease
+877,79.41,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,4,0,Positive,0,35,2,Died of Disease
+880,73.64,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,1,1,Positive,0,30,2,Living
+882,73.39,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,0,Positive,0,47,2,Died of Disease
+884,56.47,BREAST CONSERVING,Breast Cancer,Moderate,1,Positve,1,Post,Left,5,0,Negative,1,23,2,Died of Disease
+891,83.68,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,1,Negative,0,37,2,Living
+893,57.41,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Left,,1,Negative,1,28,2,Living
+895,79.61,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,1,0,Positive,1,19,2,Died of Other Causes
+897,41.32,,Breast Cancer,Moderate,0,,0,Pre,,28,0,Positive,0,46,2,Died of Other Causes
+899,50.62,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Right,4,1,Positive,0,25,2,Living
+901,68.19,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Left,3,1,Negative,1,33,2,Living
+904,83.01,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,0,Positive,0,22,2,Died of Other Causes
+906,70.6,MASTECTOMY,Breast Cancer,High,0,Negative,1,Post,Right,5,0,Negative,1,28,2,Died of Other Causes
+2513,57.96,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Left,3,0,Negative,1,20,1,Died of Disease
+2517,60.29,MASTECTOMY,Breast Cancer,Moderate,0,Negative,1,Post,Right,7,0,Negative,0,15,1,Died of Other Causes
+2536,54.11,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,6,0,Negative,0,15,1,Died of Other Causes
+2556,62.59,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,0,Negative,0,20,2,Died of Other Causes
+2564,52.98,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,10,1,Positive,1,10,1,Living
+2610,58.99,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,6,1,Positive,0,25,2,Living
+2613,59.63,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,1,Positive,0,20,1,Living
+2614,43.72,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,4,0,Positive,0,15,3,Died of Disease
+2616,65.07,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,3,0,Positive,1,18,1,Died of Disease
+2617,63.3,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,11,0,Negative,1,18,1,Died of Disease
+2618,66.22,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,8,0,Positive,1,16,1,Died of Disease
+2624,53.53,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,1,Positive,1,14,2,Living
+2626,62.54,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,3,1,Positive,1,16,1,Living
+2629,61.22,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,1,Negative,1,15,2,Living
+2632,36.52,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,7,0,Negative,1,15,2,Died of Disease
+2634,70.69,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,,1,Positive,1,10,1,Living
+2642,30.67,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Right,5,0,Positive,1,35,2,Died of Disease
+2643,34.2,BREAST CONSERVING,Breast Cancer,Low,0,,0,Pre,Right,2,0,Negative,1,3,1,Died of Disease
+2645,69.45,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,0,Negative,1,27,3,Died of Disease
+2669,62.56,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Negative,0,24,1,Died of Disease
+2686,68.76,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,5,1,Negative,1,17,2,Living
+2705,61.78,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,6,1,Negative,1,15,1,Living
+2708,66.36,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,0,Positive,0,15,1,Died of Disease
+2711,48.07,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Left,2,1,Positive,0,15,1,Living
+2712,54.59,BREAST CONSERVING,Breast Cancer,,0,Positve,1,Post,Right,6,0,Positive,1,11,2,Died of Other Causes
+2718,47.94,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,3,1,Negative,0,20,2,Living
+2721,44.82,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Pre,Left,4,1,Positive,1,9,1,Living
+2724,60.59,BREAST CONSERVING,Breast Cancer,,0,Negative,0,Post,Left,3,0,Negative,0,8,1,Died of Disease
+2725,44.88,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Right,3,1,Positive,1,15,2,Living
+2728,28.62,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,7,0,Positive,1,40,3,Died of Disease
+2730,61.99,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,10,1,Negative,1,35,3,Living
+2735,49.94,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,6,1,Negative,1,12,2,Living
+2742,48.25,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,7,0,Negative,1,15,2,Died of Disease
+2744,45.57,MASTECTOMY,Breast Cancer,,0,Positve,1,Pre,Right,5,1,Positive,1,30,1,Living
+2745,46.85,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Right,4,0,Positive,1,30,2,Died of Disease
+2747,68.23,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,4,0,Positive,0,19,1,Died of Other Causes
+2749,60.13,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,5,0,Positive,0,13,1,Died of Other Causes
+2750,47.48,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Right,6,0,Negative,0,30,1,Died of Other Causes
+2752,51.36,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Positive,0,35,1,Died of Disease
+2753,30.95,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,6,1,Negative,1,37,2,Living
+2754,66.11,MASTECTOMY,Breast Cancer,Moderate,0,Negative,1,Post,Left,2,0,Negative,0,35,1,Died of Disease
+2758,38.16,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Pre,Right,4,0,Negative,0,45,3,Died of Disease
+2760,63.1,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,0,Positive,1,15,2,Died of Disease
+2763,70.32,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,7,1,Positive,0,26,1,Living
+2764,57.48,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,,2,0,Negative,1,15,2,Died of Disease
+2765,65.79,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,0,Positive,1,17,1,Died of Other Causes
+2767,53.11,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,1,Positive,1,21,2,Living
+2769,59.9,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,4,1,Positive,1,15,1,Living
+2770,60.32,BREAST CONSERVING,Breast Cancer,,0,Positve,1,Post,Right,10,1,Positive,0,45,3,Living
+2771,56.79,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,7,0,Negative,1,16,1,Died of Disease
+2772,54.4,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,0,Positive,1,17,1,Died of Other Causes
+2774,66.06,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,0,Positive,0,35,3,Died of Other Causes
+2778,62.76,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,6,0,Positive,0,17,2,Died of Disease
+2779,36.8,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Left,6,1,Positive,1,20,1,Living
+2781,64.32,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,0,Positive,0,30,2,Died of Other Causes
+2786,62.36,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Negative,1,28,2,Died of Disease
+2790,47.03,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Left,8,1,Positive,0,25,1,Living
+2791,40.79,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Left,12,1,Positive,1,17,1,Living
+2792,50.38,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,2,0,Positive,0,35,2,Died of Disease
+2793,67.62,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,3,1,Positive,0,25,1,Living
+2795,42.07,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Right,3,1,Negative,1,12,1,Living
+2796,57.94,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,5,0,Positive,1,20,2,Died of Disease
+2797,50.07,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,4,1,Positive,0,15,1,Living
+2801,70.35,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,1,Positive,1,13,2,Living
+2803,63.01,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,4,0,Negative,1,18,1,Died of Disease
+2814,65.25,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,4,0,Positive,1,13,1,Died of Other Causes
+2815,64.25,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Post,Right,2,1,Positive,1,22,1,Living
+2819,61.95,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,4,1,Positive,0,19,1,Living
+2820,40.06,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Left,6,1,Positive,1,18,1,Living
+2821,57.39,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Post,Right,6,0,Positive,1,16,1,Died of Other Causes
+2823,35.97,BREAST CONSERVING,Breast Cancer,,0,Positve,1,Pre,Right,5,1,Positive,1,11,1,Living
+2827,36.5,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Right,4,1,Negative,1,11,2,Living
+2833,42.9,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,5,1,Negative,1,23,2,Living
+2834,56.85,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,8,0,Negative,1,9,1,Died of Other Causes
+2835,59.84,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,0,Positive,0,20,1,Died of Other Causes
+2838,67.12,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,12,1,Positive,0,27,1,Living
+2840,60.48,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,6,1,Negative,0,14,1,Living
+2842,58.48,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,11,0,Negative,1,27,2,Died of Disease
+2843,61.08,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,4,0,Negative,1,13,1,Died of Other Causes
+2844,60.76,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,8,1,Negative,0,19,1,Living
+2845,55.8,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,5,1,Negative,0,14,1,Living
+2846,58.85,MASTECTOMY,Breast Cancer,,0,Negative,0,Post,Left,6,0,Negative,0,5,1,Died of Disease
+2847,65.04,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,9,0,Negative,1,35,3,Died of Disease
+2848,60.11,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,0,Positive,0,15,2,Died of Other Causes
+2849,60.65,MASTECTOMY,Breast Cancer,Moderate,0,Negative,1,Post,Right,4,0,Negative,1,26,1,Died of Disease
+2850,31.48,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Right,5,0,Negative,1,31,3,Died of Disease
+2851,58.69,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Positive,1,16,1,Died of Disease
+2853,36.25,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Right,7,1,Negative,1,23,1,Living
+2854,61.53,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,1,Negative,0,22,1,Living
+2857,45.3,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Left,5,1,Negative,1,22,2,Living
+2858,63.94,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,0,Positive,0,26,1,Died of Other Causes
+2863,59.58,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,1,Negative,0,20,2,Living
+2867,47.1,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Right,4,1,Positive,0,20,2,Living
+2895,66.84,MASTECTOMY,Breast Cancer,Low,0,Negative,1,Post,Left,6,0,Negative,0,15,1,Died of Disease
+2896,68.18,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,5,0,Negative,0,13,1,Died of Other Causes
+2900,59.29,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,4,0,Positive,0,25,3,Died of Other Causes
+2901,49.83,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,Left,3,0,Positive,1,25,1,Died of Disease
+2904,34.83,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,6,0,Negative,1,25,2,Died of Disease
+2912,59.6,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Right,5,1,Negative,1,20,3,Living
+2916,48.93,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Left,6,1,Positive,1,16,1,Living
+2917,33.9,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,4,0,Negative,1,30,2,Died of Disease
+2919,59.13,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Post,Left,5,0,Positive,0,20,1,Died of Other Causes
+2922,45.74,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,8,0,Negative,1,25,3,Died of Disease
+2923,37.01,MASTECTOMY,Breast Cancer,,1,Negative,0,Pre,Right,6,0,Negative,1,37,3,Died of Disease
+2927,58.14,BREAST CONSERVING,Breast Cancer,,0,Positve,0,Post,Left,1,0,Positive,0,13,1,Died of Disease
+2929,53.31,MASTECTOMY,Breast Cancer,,1,Negative,0,Post,Left,6,0,Negative,1,20,2,Died of Other Causes
+2931,46.9,MASTECTOMY,Breast Cancer,,0,Positve,0,Pre,Left,10,0,Positive,0,17,1,Died of Other Causes
+2932,63.1,BREAST CONSERVING,Breast Cancer,,0,Positve,1,Post,Right,3,1,Positive,1,18,1,Living
+2933,44.08,MASTECTOMY,Breast Cancer,High,0,Positve,0,Pre,Left,4,0,Positive,0,15,1,Died of Other Causes
+2939,70.19,MASTECTOMY,Breast Cancer,,0,Positve,1,Post,Right,4,0,Positive,0,17,2,Died of Other Causes
+2944,66.97,MASTECTOMY,Breast Cancer,,0,Negative,1,Post,,7,0,Positive,0,27,1,Died of Disease
+2947,36.47,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Right,3,1,Positive,0,15,1,Living
+2951,39.07,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Right,6,1,Positive,1,15,1,Living
+2952,52.67,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,9,0,Positive,1,12,1,Died of Other Causes
+2953,43.08,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Right,4,0,Positive,1,18,1,Died of Disease
+2954,69.79,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,10,0,Positive,1,30,2,Died of Disease
+2957,31.02,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,4,1,Negative,1,30,2,Living
+2960,69.67,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Negative,0,25,1,Died of Other Causes
+2963,53.99,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,0,Negative,1,10,3,Died of Disease
+2964,69.48,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,8,0,Negative,1,30,3,Died of Disease
+2966,50.3,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,1,Positive,1,18,2,Living
+2969,66.86,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,8,0,Positive,1,13,1,Died of Other Causes
+2970,46.49,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Left,9,0,Positive,0,25,2,Died of Disease
+2971,69.6,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,10,1,Positive,1,15,2,Living
+2977,40.02,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Right,6,0,Positive,0,15,1,Died of Other Causes
+2983,56.26,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,0,Positive,1,15,2,Died of Other Causes
+2984,64.04,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,1,Negative,1,20,1,Living
+2990,48.47,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Pre,Right,6,1,Positive,0,15,1,Living
+2993,63.65,MASTECTOMY,Breast Cancer,Low,0,Negative,1,Post,Right,4,1,Negative,1,20,1,Living
+2994,46.7,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Left,3,1,Positive,1,18,2,Living
+2996,58.1,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,4,1,Positive,1,16,1,Living
+2999,61.42,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,8,1,Negative,0,12,1,Living
+3001,50.45,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,7,1,Negative,1,12,2,Living
+3002,62.32,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Negative,0,30,2,Died of Other Causes
+3005,45.75,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Left,6,1,Positive,1,23,1,Living
+3006,60.09,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Negative,1,20,3,Died of Disease
+3007,48.48,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Left,2,0,Positive,0,12,1,Died of Disease
+3008,51.94,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,2,1,Positive,1,12,1,Living
+3013,50.37,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,1,Negative,1,23,2,Living
+3014,39.7,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,5,1,Negative,1,15,2,Living
+3016,56.83,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,12,1,Positive,0,10,1,Living
+3021,63.08,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,9,0,Positive,1,22,1,Died of Other Causes
+3025,37.89,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,2,1,Negative,1,13,2,Living
+3026,49.92,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,Right,3,1,Negative,1,22,2,Living
+3028,60.93,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,,6,0,Negative,1,17,1,Died of Disease
+3031,46.76,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,4,0,Negative,1,21,2,Died of Disease
+3032,50.01,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,9,1,Positive,1,15,1,Living
+3033,69.07,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,1,0,Positive,0,19,1,Died of Disease
+3035,54.64,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,8,1,Negative,1,22,1,Living
+3037,53.19,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,5,1,Positive,1,13,1,Living
+3046,67.2,MASTECTOMY,Breast Cancer,Moderate,0,Negative,1,Post,Left,5,0,Negative,0,35,1,Died of Other Causes
+3049,57.17,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,4,1,Positive,1,16,1,Living
+3050,59.53,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,0,Negative,0,30,1,Died of Other Causes
+3057,55.3,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,5,0,Negative,1,43,2,Died of Disease
+3058,47.74,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Right,8,1,Negative,1,40,2,Living
+3060,65.69,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Negative,1,36,2,Died of Disease
+3062,62.87,BREAST CONSERVING,Breast Cancer,,0,Negative,0,Post,Left,5,1,Negative,1,17,1,Living
+3063,43.51,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Right,13,0,Negative,1,20,3,Died of Disease
+3064,46.7,MASTECTOMY,Breast Cancer,High,0,Positve,0,Pre,Left,7,0,Positive,0,20,1,Died of Disease
+3067,60.29,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,5,1,Negative,1,18,2,Living
+3079,50.54,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,11,1,Positive,1,15,1,Living
+3083,68.5,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,2,0,Positive,1,30,2,Died of Disease
+3085,43.68,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Right,4,0,Positive,1,25,1,Died of Disease
+3088,65.58,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,3,1,Positive,0,19,1,Living
+3092,56.73,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,1,0,Positive,1,38,2,Died of Other Causes
+3102,60.34,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,5,1,Positive,1,20,2,Living
+3103,58.55,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Negative,1,15,1,Died of Disease
+3104,28.96,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Right,9,0,Negative,1,20,1,Died of Disease
+3105,48.34,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Left,5,1,Positive,0,27,2,Living
+3110,61.07,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,7,1,Negative,1,16,2,Living
+3121,63.06,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,3,0,Positive,0,12,1,Died of Other Causes
+3122,62.39,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,6,1,Negative,0,17,1,Living
+3123,50.26,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Right,5,1,Negative,1,22,3,Living
+3153,42.17,MASTECTOMY,Breast Cancer,,1,Negative,0,Pre,Right,4,1,Negative,1,16,2,Living
+3165,59.78,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Post,Left,4,1,Negative,1,28,2,Living
+3167,66.76,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,1,Positive,1,16,1,Living
+3171,54.95,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,9,0,Positive,0,13,1,Died of Disease
+3181,43.6,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Left,12,0,Positive,1,14,1,Died of Disease
+3211,58.31,BREAST CONSERVING,Breast Cancer,High,0,Negative,1,Post,Right,9,1,Negative,1,13,1,Living
+3218,44.94,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,3,1,Negative,1,17,2,Living
+3222,63.03,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Post,Right,3,0,Positive,0,17,1,Died of Other Causes
+3228,58.31,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,7,1,Positive,1,17,1,Living
+3235,50.66,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,1,Positive,1,17,1,Living
+3252,41.4,BREAST CONSERVING,Breast Cancer,,0,Positve,0,Pre,Left,2,1,Positive,0,20,1,Living
+3253,56.81,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,16,0,Positive,1,26,2,Died of Disease
+3254,50.21,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,9,1,Positive,1,18,1,Living
+3266,52.91,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,2,0,Positive,1,17,2,Died of Disease
+3271,59.43,BREAST CONSERVING,Breast Cancer,High,0,Negative,1,Post,Left,6,0,Negative,1,20,1,Died of Other Causes
+3272,63.53,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,2,0,Positive,1,20,3,Died of Disease
+3275,45,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Pre,Left,6,0,Positive,0,28,1,Died of Disease
+3277,29.92,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,6,0,Negative,1,30,2,Died of Disease
+3292,60.04,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,1,Post,Left,5,1,Negative,0,18,1,Living
+3295,60.42,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,5,0,Positive,0,25,1,Died of Other Causes
+3297,42.72,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Pre,Left,14,1,Negative,1,25,2,Living
+3298,48.75,MASTECTOMY,Breast Cancer,High,0,Positve,0,Pre,Right,6,1,Positive,0,15,1,Living
+3300,64.99,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,3,1,Negative,0,19,1,Living
+3301,49.5,MASTECTOMY,Breast Cancer,,0,Positve,1,Pre,Left,6,1,Positive,0,32,1,Living
+3303,63.96,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,1,Positive,1,20,2,Living
+3328,69.65,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Negative,1,35,2,Died of Other Causes
+3329,56.03,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Post,Right,5,0,Negative,1,20,1,Died of Disease
+3341,62.96,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Positive,0,30,1,Died of Disease
+3344,33.76,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Right,8,1,Positive,1,23,1,Living
+3350,62.62,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Positive,0,30,1,Died of Other Causes
+3351,39.4,MASTECTOMY,Breast Cancer,High,0,Positve,0,Pre,Right,5,1,Positive,0,17,1,Living
+3355,48.53,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,5,1,Negative,1,27,3,Living
+3357,47.75,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,Left,8,0,Positive,1,25,1,Died of Disease
+3360,48.48,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,Right,8,0,Positive,1,28,1,Died of Disease
+3361,57.31,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,8,0,Negative,1,16,1,Died of Disease
+3363,56.42,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,23,0,Negative,1,20,1,Died of Disease
+3365,51.18,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,3,1,Positive,1,27,2,Living
+3367,65.62,MASTECTOMY,Breast Cancer,High,0,Negative,1,Post,Left,9,1,Negative,0,23,1,Living
+3371,66.15,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,3,1,Negative,1,16,1,Living
+3378,65.5,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,4,0,Positive,0,18,1,Died of Other Causes
+3379,60.99,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Positive,1,20,1,Died of Other Causes
+3381,53.36,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,3,1,Positive,1,20,2,Living
+3382,61.26,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,1,1,Negative,0,40,1,Living
+3383,38.49,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Left,8,0,Negative,1,28,3,Died of Disease
+3386,40.06,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,6,0,Negative,1,35,2,Died of Disease
+3388,59.3,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,1,20,2,Died of Other Causes
+3389,63.34,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,2,1,Negative,1,20,1,Living
+3395,52.45,MASTECTOMY,Breast Cancer,High,0,Negative,1,Post,Left,6,1,Negative,0,15,1,Living
+3396,59.29,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,12,1,Negative,1,25,2,Living
+3402,41.17,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,4,0,Positive,1,28,2,Died of Disease
+3403,50.92,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,1,Positive,1,17,2,Living
+3412,55.28,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,6,1,Negative,1,26,3,Living
+3417,59.16,BREAST CONSERVING,Breast Cancer,,0,Positve,1,Post,Left,7,1,Positive,1,20,1,Living
+3429,49.08,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Pre,Right,3,1,Negative,0,26,2,Living
+3430,68.86,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,7,0,Positive,1,25,2,Died of Other Causes
+3435,37.05,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,9,0,Negative,1,30,2,Died of Disease
+3436,38.2,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,,4,0,Positive,1,130,3,Died of Disease
+3437,70.52,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,1,Positive,1,21,1,Living
+3439,43.67,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Pre,Right,16,1,Positive,0,17,2,Living
+3450,51.52,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,3,1,Positive,1,17,1,Living
+3452,64.04,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,7,0,Negative,0,30,1,Died of Disease
+3453,51.36,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,14,0,Negative,1,35,2,Died of Disease
+3459,57.66,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,5,1,Positive,0,20,1,Living
+3462,40.92,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Pre,Left,7,1,Positive,1,16,2,Living
+3466,55.3,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,8,0,Positive,1,15,1,Died of Other Causes
+3467,21.93,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,5,0,Negative,1,35,3,Died of Disease
+3470,56.4,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,,3,0,Negative,1,55,2,Died of Disease
+3476,68.59,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Left,4,0,Negative,0,17,1,Died of Other Causes
+3479,60.3,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,1,Positive,1,22,2,Living
+3487,43.58,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Left,6,1,Negative,1,27,1,Living
+3488,41.1,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,2,0,Negative,1,50,2,Died of Disease
+3490,45.74,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Right,18,0,Positive,0,20,1,Died of Disease
+3492,62.09,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,8,0,Positive,1,20,2,Died of Disease
+3497,53.5,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,7,0,Negative,1,31,3,Died of Disease
+3500,66.91,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Post,Right,12,1,Negative,0,30,1,Living
+3502,50.79,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Left,4,1,Negative,1,27,2,Living
+3506,39.28,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Right,6,1,Positive,1,16,2,Living
+3510,67.6,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,8,0,Positive,1,20,2,Died of Other Causes
+3525,65.56,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,26,1,Negative,1,27,3,Living
+3526,60.3,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,3,0,Negative,1,22,2,Died of Disease
+3528,71.03,MASTECTOMY,Breast Cancer,,0,Negative,0,Post,Left,7,1,Negative,0,25,1,Living
+3530,70.94,MASTECTOMY,Breast Cancer,,0,Positve,1,Post,Left,20,0,Positive,0,26,2,Died of Other Causes
+3536,48.12,BREAST CONSERVING,Breast Cancer,,0,Positve,1,Pre,Left,8,0,Negative,1,15,3,Died of Disease
+3545,49.84,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Pre,Left,5,0,Positive,1,21,1,Died of Disease
+3548,66.85,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Positive,0,20,2,Died of Other Causes
+3556,51.76,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,8,0,Negative,1,80,2,Died of Disease
+3567,55.95,MASTECTOMY,Breast Cancer,High,1,Negative,1,Post,Left,4,1,Negative,1,25,2,Living
+3576,53.04,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,8,0,Negative,0,37,1,Died of Disease
+3582,63.97,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Right,2,0,Positive,0,60,1,Died of Other Causes
+3600,60.15,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,9,1,Positive,1,12,2,Living
+3606,68.61,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Left,8,1,Negative,1,40,1,Living
+3614,63.95,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,1,Positive,1,34,2,Living
+3702,37.16,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Right,5,1,Negative,1,5.5,2,Living
+3706,55.71,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Right,4,0,Negative,1,18,1,Died of Disease
+3707,70.77,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Negative,0,25,2,Died of Disease
+3711,41.52,MASTECTOMY,Breast Cancer,High,0,Positve,0,Pre,Left,7,1,Positive,0,20,1,Living
+3748,51.01,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,1,Positive,1,15,1,Living
+3752,49.98,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Pre,Left,4,0,Negative,1,15,1,Died of Disease
+3754,57.01,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Negative,0,25,1,Died of Disease
+3781,48.16,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Right,5,1,Positive,1,18,1,Living
+3797,68.72,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,6,1,Positive,0,24,1,Living
+3824,49.45,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Right,8,0,Positive,1,22,1,Died of Disease
+3838,60.45,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,1,23,1,Died of Disease
+3840,53.89,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,5,1,Negative,1,16,1,Living
+3842,54.6,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,8,1,Negative,1,24,2,Living
+3850,65.89,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,8,1,Positive,0,20,1,Living
+3852,43.56,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,Right,4,1,Positive,1,23,1,Living
+3854,63.82,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Right,8,1,Positive,0,12,1,Living
+3865,49.37,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Right,4,1,Negative,1,15,1,Living
+3866,54.29,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Right,9,1,Negative,1,12,1,Living
+3871,62.03,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,0,26,2,Died of Other Causes
+3874,35.5,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Right,6,1,Positive,1,15,1,Living
+3978,57.91,BREAST CONSERVING,Breast Cancer,,0,Negative,0,Post,Right,9,0,Negative,1,13,1,Died of Disease
+4000,76.96,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,3,0,Negative,1,20,1,Died of Other Causes
+4001,74.51,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,9,0,Negative,1,40,2,Died of Disease
+4003,70.31,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,6,0,Positive,1,20,1,Died of Disease
+4004,61.16,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,8,0,Positive,1,15,1,Died of Disease
+4005,66.37,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,1,Positive,1,18,1,Living
+4008,64.91,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,0,Positive,0,35,2,Died of Disease
+4010,73.15,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Post,Right,9,0,Positive,0,25,2,Died of Other Causes
+4011,72.36,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,1,Negative,1,22,,Living
+4012,63.23,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Right,11,0,Negative,1,25,2,Died of Other Causes
+4015,76.13,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Post,Left,10,0,Negative,0,30,,Died of Disease
+4017,76.17,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Negative,0,40,2,Died of Other Causes
+4018,71.32,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,0,Positive,0,20,,Died of Disease
+4024,56.14,BREAST CONSERVING,Breast Cancer,High,0,Negative,1,Post,Left,7,1,Negative,1,25,2,Living
+4033,82.17,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,9,0,Positive,1,22,3,Died of Disease
+4046,59.24,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,8,0,Positive,0,13,1,Died of Other Causes
+4059,50.23,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,6,0,Positive,1,25,2,Died of Other Causes
+4079,63.17,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,24,0,Positive,1,22,2,Died of Other Causes
+4091,74.45,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,4,0,Positive,0,30,2,Died of Other Causes
+4098,68.55,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,7,1,Negative,0,50,,Living
+4119,65.46,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,7,0,Negative,1,20,2,Died of Disease
+4120,56.19,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,5,0,Positive,0,10,,Died of Other Causes
+4126,73.2,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,10,0,Positive,1,30,2,Died of Other Causes
+4127,54.35,MASTECTOMY,Breast Cancer,High,1,Negative,1,Post,Right,8,0,Negative,1,40,3,Died of Other Causes
+4139,63.05,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,4,0,Positive,0,20,1,Died of Other Causes
+4140,71.17,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,13,0,Negative,1,23,2,Died of Other Causes
+4141,58.32,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Post,Left,5,0,Positive,1,15,,Died of Disease
+4145,60.33,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,9,0,Positive,1,20,1,Died of Other Causes
+4146,43.06,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Left,5,0,Negative,1,20,2,Died of Disease
+4148,57.85,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,0,Positive,0,35,,Died of Disease
+4154,54.22,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,6,0,Positive,1,30,2,Died of Other Causes
+4171,64.21,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,5,0,Negative,0,43,2,Died of Disease
+4173,74.31,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,0,Positive,1,10,2,Died of Other Causes
+4189,60.99,,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Positive,1,,,Died of Other Causes
+4212,45.5,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Pre,Right,3,1,Positive,0,20,,Living
+4213,67.02,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,3,0,Negative,1,30,2,Died of Disease
+4222,58.8,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,5,0,Positive,0,40,2,Died of Disease
+4224,72.39,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,1,35,2,Died of Disease
+4230,75.87,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Negative,1,50,2,Died of Other Causes
+4233,54.01,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,11,0,Negative,1,30,2,Died of Disease
+4234,68.25,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,5,0,Positive,0,40,2,Died of Other Causes
+4235,67.46,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,5,0,Negative,0,20,1,Died of Disease
+4236,73.91,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Negative,1,18,2,Died of Other Causes
+4250,80.81,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Negative,0,55,3,Died of Other Causes
+4254,68.7,MASTECTOMY,Breast Cancer,High,0,Negative,1,Post,Right,4,1,Negative,0,30,,Living
+4264,72.17,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,8,0,Positive,1,20,,Died of Other Causes
+4266,28.04,MASTECTOMY,Breast Cancer,High,0,Negative,0,Pre,Right,1,0,Negative,0,45,2,Died of Disease
+4270,37.85,MASTECTOMY,Breast Cancer,,1,Negative,0,Pre,Right,2,0,Positive,1,18,2,Died of Disease
+4274,74.32,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Positive,1,20,2,Died of Disease
+4276,55.07,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,7,0,Positive,1,35,2,Died of Disease
+4278,68.32,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,14,0,Positive,0,30,2,Died of Other Causes
+4281,60,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,0,Negative,1,23,2,Died of Other Causes
+4282,49.61,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Right,6,1,Positive,1,10,1,Living
+4283,55.62,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,7,1,Positive,1,40,2,Living
+4289,65.49,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,0,Negative,1,20,1,Died of Disease
+4292,58.8,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,6,0,Positive,1,25,,Died of Other Causes
+4293,54.16,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,6,0,Negative,1,30,2,Died of Other Causes
+4300,70.58,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,1,Negative,1,30,2,Living
+4303,66.91,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Post,Left,12,0,Negative,1,15,1,Died of Other Causes
+4306,69.19,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,4,0,Positive,0,21,2,Died of Other Causes
+4310,76.51,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,3,0,Positive,1,50,,Died of Other Causes
+4313,58.02,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,10,0,Positive,1,40,2,Died of Disease
+4317,51.93,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,1,Positive,0,50,2,Living
+4318,72.44,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,0,Positive,1,20,2,Died of Other Causes
+4322,63.39,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Negative,1,30,2,Died of Other Causes
+4323,80.04,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,0,Positive,0,30,,Died of Other Causes
+4324,61.22,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,10,0,Positive,1,50,2,Died of Disease
+4328,64.12,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,5,0,Positive,1,30,,Died of Other Causes
+4329,70.75,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Positive,0,29,2,Died of Disease
+4331,63.34,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,0,Negative,1,20,2,Died of Other Causes
+4332,34.36,MASTECTOMY,Breast Cancer,High,0,Negative,0,Pre,Left,4,1,Negative,1,20,1,Living
+4333,64.5,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,5,0,Negative,0,25,2,Died of Other Causes
+4339,74.98,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,8,0,Positive,1,20,1,Died of Disease
+4341,35.14,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Right,5,0,Negative,1,40,2,Died of Disease
+4342,73.2,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Negative,1,62,3,Died of Other Causes
+4343,68.09,MASTECTOMY,Breast Cancer,Moderate,0,,0,Post,Left,14,0,Negative,0,25,2,Died of Other Causes
+4348,61.57,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,9,0,Negative,1,40,2,Died of Disease
+4350,35.64,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Pre,Left,2,0,Negative,1,15,2,Died of Disease
+4351,70.27,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,9,0,Negative,1,20,1,Died of Disease
+4353,59.23,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,0,Positive,0,30,2,Died of Disease
+4354,55.01,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,0,Negative,1,35,,Died of Disease
+4357,77.12,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,17,0,Negative,1,20,,Died of Disease
+4360,59.16,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Post,Left,9,0,Negative,1,8,3,Died of Disease
+4362,50.08,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Post,Right,11,1,Positive,1,20,1,Living
+4368,74.6,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,6,0,Positive,1,25,2,Died of Disease
+4374,77.51,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Positive,1,30,2,Died of Other Causes
+4375,40.04,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Left,5,1,Positive,0,16,1,Living
+4381,59.75,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,8,0,Positive,1,20,2,Died of Disease
+4390,68.49,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,1,30,2,Died of Other Causes
+4395,45.21,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Right,4,0,Positive,0,30,,Died of Disease
+4407,44.4,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Pre,Left,6,0,Negative,1,10,1,Died of Disease
+4408,71.66,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Left,9,0,Negative,0,20,,Died of Other Causes
+4416,44.89,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Pre,Right,4,0,Negative,1,25,2,Died of Disease
+4417,68.16,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Post,Left,8,0,Negative,0,32,2,Died of Other Causes
+4418,56.11,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,13,1,Positive,1,20,1,Living
+4421,69.01,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,10,0,Positive,1,10,1,Died of Other Causes
+4426,70.84,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,9,0,Positive,1,45,2,Died of Other Causes
+4434,74.84,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,1,0,Negative,1,25,2,Died of Disease
+4442,47.29,MASTECTOMY,Breast Cancer,High,0,Positve,0,Pre,Right,4,1,Positive,0,15,1,Living
+4484,66.23,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,7,0,Positive,1,55,,Died of Disease
+4529,61.21,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,6,0,Negative,1,15,1,Died of Other Causes
+4548,50.42,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Post,Left,2,1,Negative,1,1,2,Living
+4557,51.25,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,7,1,Positive,1,30,2,Living
+4564,74.67,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Positive,1,18,,Died of Other Causes
+4578,72.74,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,1,45,2,Died of Other Causes
+4591,71.93,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,5,0,Positive,1,25,2,Died of Other Causes
+4593,48.44,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Right,3,1,Positive,1,15,1,Living
+4598,67.92,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,0,Positive,1,25,2,Died of Disease
+4599,63.83,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,8,1,Positive,1,40,2,Living
+4601,39.14,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Pre,Right,8,0,Negative,0,30,2,Died of Disease
+4602,58.38,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,7,0,Positive,1,20,2,Died of Disease
+4603,42.79,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Left,10,1,Positive,1,15,1,Living
+4607,55.42,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,9,1,Negative,1,15,1,Living
+4616,71.47,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,5,0,Positive,1,20,1,Died of Disease
+4618,40.05,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Right,4,1,Positive,1,12,1,Living
+4621,39.51,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Pre,Right,5,1,Negative,0,53,3,Living
+4622,40.83,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,4,0,Negative,1,50,2,Died of Other Causes
+4623,61.88,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Negative,1,10,2,Died of Other Causes
+4626,64.61,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,5,0,Negative,1,15,1,Died of Disease
+4627,55.65,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,0,Positive,1,20,2,Died of Other Causes
+4630,67.48,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,7,0,Positive,0,35,,Died of Other Causes
+4633,67.03,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,1,Positive,1,25,2,Living
+4634,66.37,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Positive,1,15,2,Died of Disease
+4639,71.17,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,3,0,Positive,1,30,2,Died of Disease
+4640,61.59,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Post,Right,6,1,Negative,1,25,2,Living
+4641,64.93,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Positive,1,15,2,Died of Other Causes
+4642,66.27,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,1,35,2,Died of Disease
+4643,78.21,MASTECTOMY,Breast Cancer,Low,0,Negative,0,Post,Left,6,0,Negative,0,15,1,Died of Disease
+4644,59.13,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Negative,0,23,,Died of Disease
+4648,75.19,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,1,0,Positive,0,20,1,Died of Other Causes
+4649,61.67,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,15,0,Negative,1,25,2,Died of Other Causes
+4651,69.96,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,4,0,Negative,1,35,2,Died of Disease
+4653,44.5,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Pre,Left,7,0,Positive,0,31,2,Died of Disease
+4654,80.82,BREAST CONSERVING,Breast Cancer,,0,Positve,1,Post,Right,8,0,Positive,1,20,1,Died of Other Causes
+4655,64.01,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,0,Positive,0,16,2,Died of Other Causes
+4660,37.53,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Right,9,0,Negative,1,28,2,Died of Disease
+4661,81.11,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,9,1,Positive,0,25,2,Living
+4663,61.97,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Post,Left,5,1,Negative,1,40,2,Living
+4665,54.27,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,3,1,Positive,0,18,1,Living
+4666,57.98,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Negative,0,15,2,Died of Disease
+4667,65.58,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Left,40,0,Negative,1,20,1,Died of Other Causes
+4669,68.82,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Right,6,0,Negative,1,20,1,Died of Other Causes
+4670,61,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,7,0,Positive,0,20,1,Died of Disease
+4671,72.48,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,2,0,Positive,1,30,2,Died of Disease
+4672,58.78,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,7,0,Positive,0,25,,Died of Other Causes
+4673,63.27,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,1,0,Negative,0,20,3,Died of Disease
+4674,75.26,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,9,0,Positive,0,40,2,Died of Disease
+4675,59.23,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,7,1,Positive,1,18,1,Living
+4679,64.11,MASTECTOMY,Breast Cancer,Low,0,Negative,0,Post,Left,4,0,Negative,0,15,1,Died of Other Causes
+4681,60.66,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,8,0,Negative,0,17,1,Died of Disease
+4682,65.5,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,2,0,Positive,0,20,,Died of Disease
+4685,73.6,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,2,0,Negative,1,50,2,Died of Other Causes
+4686,53.03,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,0,Negative,1,35,2,Died of Disease
+4687,81.98,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,0,Negative,0,20,2,Died of Other Causes
+4688,71.17,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,7,0,Positive,1,45,3,Died of Disease
+4691,49.76,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Left,16,0,Negative,0,10,1,Died of Disease
+4692,58.49,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,6,0,Positive,0,25,,Died of Other Causes
+4694,76.06,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,5,1,Negative,1,20,1,Living
+4695,61.12,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,6,0,Negative,0,50,2,Died of Other Causes
+4696,49.98,MASTECTOMY,Breast Cancer,Low,0,Negative,0,Pre,Left,8,1,Negative,0,45,,Living
+4697,79.01,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,12,0,Negative,0,30,,Died of Other Causes
+4698,59.18,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,0,20,2,Died of Disease
+4701,47.62,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Left,8,1,Positive,1,25,2,Living
+4702,52.13,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,6,1,Negative,0,35,2,Living
+4704,67.79,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,3,0,Negative,0,49,2,Died of Disease
+4705,63.58,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Post,Left,4,0,Positive,0,27,2,Died of Other Causes
+4706,75.48,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,3,0,Positive,1,15,1,Died of Other Causes
+4707,59.85,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Post,Right,12,1,Negative,1,27,2,Living
+4708,63.03,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,11,0,Negative,0,18,1,Died of Other Causes
+4709,49.02,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Left,4,1,Positive,1,20,1,Living
+4710,77.12,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,12,1,Positive,0,19,1,Living
+4711,56.07,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Post,Left,4,0,Negative,1,99,3,Died of Disease
+4712,46.59,MASTECTOMY,Breast Cancer,High,0,Negative,0,Pre,Right,4,0,Negative,0,50,2,Died of Other Causes
+4714,64.68,MASTECTOMY,Breast Cancer,High,1,Negative,1,Post,Right,7,0,Negative,1,1,2,Died of Other Causes
+4715,67.8,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,7,0,Negative,0,45,2,Died of Disease
+4716,52.98,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,7,0,Positive,1,28,2,Died of Disease
+4717,43.51,MASTECTOMY,Breast Cancer,High,0,Negative,0,Pre,Right,3,0,Negative,0,25,2,Died of Disease
+4718,44.27,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Pre,Right,4,0,Positive,1,99,2,Died of Disease
+4719,67.27,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,9,0,Positive,0,22,2,Died of Other Causes
+4721,66.39,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,7,0,Negative,1,60,3,Died of Disease
+4722,64.02,MASTECTOMY,Breast Cancer,High,0,,0,Post,Left,6,1,Positive,0,25,2,Living
+4723,64.76,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,4,1,Negative,1,15,1,Living
+4724,60.44,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Left,6,1,Negative,1,20,1,Living
+4725,65.83,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,7,0,Positive,0,26,2,Died of Disease
+4729,75.41,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,0,Negative,1,25,,Died of Other Causes
+4730,51.29,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,10,0,Positive,0,68,2,Died of Other Causes
+4731,49.43,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,5,0,Negative,0,60,,Died of Disease
+4732,26.72,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,3,1,Negative,1,45,2,Living
+4733,56.27,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,1,Post,Left,6,0,Negative,1,18,2,Died of Disease
+4735,54.18,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,3,1,Positive,0,40,2,Living
+4737,52.29,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,1,Negative,0,46,2,Living
+4738,42.27,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Pre,Left,5,1,Positive,0,20,1,Living
+4739,56.08,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,9,0,Positive,1,15,1,Died of Other Causes
+4741,53.02,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Negative,0,20,2,Died of Disease
+4742,76.42,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Positive,0,35,2,Died of Other Causes
+4743,52.61,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,7,1,Negative,0,15,1,Living
+4744,64.21,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Positive,1,16,2,Died of Disease
+4745,50.08,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Post,Right,15,0,Negative,1,37,2,Died of Disease
+4746,38.1,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Pre,Right,15,1,Positive,0,45,,Living
+4749,70.57,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,14,0,Positive,0,22,2,Died of Other Causes
+4750,73.21,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,6,0,Positive,0,25,2,Died of Disease
+4752,63.7,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,3,0,Negative,0,60,3,Died of Disease
+4757,38.93,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,7,0,Negative,0,10,,Died of Disease
+4758,45.77,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Pre,Right,7,1,Negative,1,10,,Living
+4760,48.41,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Pre,Right,4,0,Positive,0,15,,Died of Disease
+4762,67.82,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,6,1,Positive,1,15,1,Living
+4763,44.07,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Pre,Right,4,1,Negative,1,30,2,Living
+4764,57.95,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,1,Positive,1,50,2,Living
+4767,74.86,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Positive,0,40,2,Died of Disease
+4769,65.86,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Left,11,0,Negative,1,35,2,Died of Disease
+4770,70.22,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Left,10,0,Negative,0,13,1,Died of Other Causes
+4771,47.86,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Left,3,1,Positive,1,30,2,Living
+4778,78.62,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,11,0,Positive,0,25,2,Died of Other Causes
+4779,53.39,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,7,1,Positive,1,13,2,Living
+4782,43.85,MASTECTOMY,Breast Cancer,,0,,0,Pre,Right,4,1,Positive,0,,,Living
+4784,63.35,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,0,Negative,0,20,,Died of Other Causes
+4785,75.46,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,5,0,Positive,1,28,2,Died of Disease
+4787,68.85,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,8,0,Positive,0,30,2,Died of Other Causes
+4790,43.73,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Left,6,0,Negative,0,28,2,Died of Disease
+4791,83.49,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,46,0,Negative,0,20,1,Died of Other Causes
+4792,49.92,BREAST CONSERVING,Breast Cancer,Low,1,Negative,0,Pre,Right,6,0,Negative,1,20,2,Died of Disease
+4793,72.49,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Left,7,0,Negative,1,50,2,Died of Other Causes
+4794,89,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,0,35,2,Died of Other Causes
+4796,53.18,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,4,1,Negative,0,25,2,Living
+4797,81.06,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,2,0,Negative,1,20,1,Died of Other Causes
+4798,44.51,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Right,5,1,Positive,1,25,2,Living
+4800,61.3,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,8,0,Positive,0,25,2,Died of Disease
+4801,65.83,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,12,0,Positive,1,35,2,Died of Other Causes
+4802,71.67,MASTECTOMY,Breast Cancer,Moderate,0,,0,Post,Right,7,0,Negative,0,40,2,Died of Disease
+4805,45.39,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Pre,Left,6,0,Positive,0,35,2,Died of Disease
+4806,49.77,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Pre,Left,4,0,Positive,0,10,2,Died of Other Causes
+4809,43.77,MASTECTOMY,Breast Cancer,High,0,Negative,0,Pre,Left,4,1,Negative,0,14,1,Living
+4814,39.92,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Right,3,0,Positive,0,50,2,Died of Disease
+4818,75.74,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Negative,1,57,3,Died of Other Causes
+4820,67.19,,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,1,16,,Died of Disease
+4822,76.88,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,4,0,Positive,0,10,1,Died of Disease
+4825,65.93,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,6,0,Positive,0,10,1,Died of Other Causes
+4827,78.54,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Negative,0,22,2,Died of Other Causes
+4828,78.87,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,8,0,Negative,1,80,3,Died of Disease
+4829,83.27,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Negative,1,10,2,Died of Other Causes
+4832,45.44,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Left,4,0,Positive,1,11,1,Died of Disease
+4834,49.61,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Left,11,0,Negative,1,25,,Died of Disease
+4836,55.66,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,11,0,Positive,1,16,,Died of Disease
+4838,74.39,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Negative,1,99,3,Died of Other Causes
+4839,67.26,MASTECTOMY,Breast Cancer,Moderate,0,,0,Post,Left,3,1,Positive,0,12,,Living
+4843,54.35,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,12,1,Positive,0,30,2,Living
+4845,86.75,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,0,Positive,0,20,2,Died of Disease
+4846,63.07,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Right,6,0,Positive,1,25,2,Died of Disease
+4849,81.52,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,0,Negative,0,30,2,Died of Disease
+4851,73.95,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,7,0,Positive,0,25,2,Died of Disease
+4853,62.35,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,6,1,Positive,0,16,1,Living
+4855,74.8,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,9,0,Positive,0,30,,Died of Other Causes
+4858,74.56,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,3,0,Negative,0,15,,Died of Other Causes
+4859,74.29,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Post,Right,4,0,Negative,1,17,1,Died of Other Causes
+4860,44.95,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Pre,Right,6,1,Positive,1,10,1,Living
+4862,64.32,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,10,1,Positive,1,23,2,Living
+4865,50.7,MASTECTOMY,Breast Cancer,Low,0,Negative,0,Post,Right,8,1,Negative,0,35,2,Living
+4866,43.86,MASTECTOMY,Breast Cancer,High,0,Positve,0,Pre,Right,2,1,Positive,0,20,1,Living
+4867,47.03,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Left,5,1,Positive,0,25,2,Living
+4869,67.12,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,0,30,2,Died of Disease
+4870,57.33,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Post,Right,4,1,Positive,1,25,2,Living
+4871,74.53,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Left,8,0,Negative,0,40,2,Died of Disease
+4872,58.69,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,1,Positive,0,20,,Living
+4873,64.47,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,9,0,Positive,1,30,3,Died of Disease
+4876,42.45,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Pre,Left,5,0,Negative,1,28,2,Died of Disease
+4878,79.35,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,5,0,Negative,0,25,2,Died of Disease
+4879,49.34,BREAST CONSERVING,Breast Cancer,High,0,,0,Pre,Right,10,0,Negative,1,18,1,Died of Other Causes
+4880,69.68,MASTECTOMY,Breast Cancer,High,0,,0,Post,Right,9,1,Negative,0,27,2,Living
+4881,37.05,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Pre,Left,11,1,Negative,1,35,,Living
+4882,76.71,MASTECTOMY,Breast Cancer,Low,0,,0,Post,Right,4,0,Positive,0,7,1,Died of Other Causes
+4883,57.93,BREAST CONSERVING,Breast Cancer,Moderate,0,,0,Post,Right,8,1,Positive,1,20,1,Living
+4886,43.42,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Right,13,0,Negative,0,45,2,Died of Disease
+4887,52.09,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,11,0,Negative,0,33,2,Died of Disease
+4888,63.95,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Right,8,1,Negative,1,16,1,Living
+4893,33.04,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Pre,Left,6,1,Negative,0,20,2,Living
+4894,47.71,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Left,4,1,Positive,0,35,2,Living
+4896,41.53,MASTECTOMY,Breast Cancer,Low,0,Negative,0,Pre,Left,5,0,Negative,0,30,2,Died of Disease
+4897,40.04,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Pre,Left,5,1,Positive,0,1,1,Living
+4898,63.63,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,5,0,Positive,1,10,,Died of Disease
+4899,40.25,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Left,8,1,Positive,1,20,1,Living
+4900,47.61,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Left,5,1,Negative,0,18,1,Living
+4904,64.3,,Breast Cancer,Moderate,1,Negative,0,Post,Right,6,0,Negative,1,,3,Died of Other Causes
+4906,73.03,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,0,Positive,0,26,2,Died of Other Causes
+4908,69.87,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,9,0,Positive,1,40,2,Died of Disease
+4911,43.51,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,4,0,Negative,1,15,2,Died of Disease
+4912,78.19,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,3,0,Positive,1,28,2,Died of Disease
+4925,76.54,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,0,Positive,0,25,2,Died of Other Causes
+4928,75.2,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,10,1,Negative,0,22,2,Living
+4929,59.49,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,10,0,Negative,1,26,2,Died of Disease
+4930,62.43,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,1,Negative,1,30,2,Living
+4931,58.39,MASTECTOMY,Breast Cancer,High,0,Negative,1,Post,Left,10,0,Negative,0,30,2,Died of Disease
+4933,50.78,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,2,1,Negative,0,30,2,Living
+4934,74.85,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,10,1,Positive,1,28,2,Living
+4935,36.35,MASTECTOMY,Breast Cancer,Moderate,1,Negative,1,Pre,Left,4,1,Negative,0,23,2,Living
+4937,41.09,MASTECTOMY,Breast Cancer,High,0,Positve,0,Pre,Right,5,0,Positive,0,20,1,Died of Disease
+4938,33.92,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,30,0,Negative,1,25,2,Died of Disease
+4941,57.32,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,3,0,Positive,1,20,1,Died of Disease
+4942,60.31,BREAST CONSERVING,Breast Cancer,Low,0,Negative,0,Post,Right,6,0,Negative,1,27,2,Died of Other Causes
+4944,77.77,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,5,0,Positive,1,18,1,Died of Other Causes
+4945,65.53,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Right,6,0,Negative,0,19,,Died of Disease
+4949,69.75,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,16,1,Negative,0,22,2,Living
+4950,69.99,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,0,Positive,1,30,2,Died of Disease
+4952,67.15,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Post,Left,10,1,Negative,1,21,2,Living
+4956,69.31,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Negative,1,60,3,Died of Disease
+4957,70.38,BREAST CONSERVING,Breast Cancer,High,0,,0,Post,Right,3,0,Negative,1,20,1,Died of Disease
+4959,76.93,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,0,Positive,0,13,1,Died of Disease
+4961,56.94,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,10,1,Positive,1,25,2,Living
+4962,72.44,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,0,Positive,1,14,,Died of Disease
+4965,69.93,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,7,0,Positive,0,30,2,Died of Other Causes
+4966,55.83,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,0,50,2,Died of Disease
+4967,61.16,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,0,Positive,1,15,2,Died of Other Causes
+4968,56.03,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,7,1,Positive,1,25,2,Living
+4969,76.81,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,17,0,Positive,1,25,2,Died of Other Causes
+4970,77.45,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,6,0,Positive,0,30,,Died of Disease
+4974,65.16,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Post,Left,5,0,Negative,1,18,1,Died of Other Causes
+4976,73.65,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,2,0,Positive,0,20,,Died of Other Causes
+4977,72.54,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,0,Positive,1,22,,Died of Disease
+4978,58.89,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,5,1,Negative,0,20,1,Living
+4981,69.67,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Positive,0,30,,Died of Disease
+4982,62.99,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Negative,1,17,,Died of Disease
+4986,41,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Right,8,0,Negative,1,50,2,Died of Disease
+4987,76.37,MASTECTOMY,Breast Cancer,Low,0,Negative,0,Post,Right,7,0,Negative,0,20,1,Died of Other Causes
+4991,77.13,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,1,Negative,0,40,2,Living
+4992,66.47,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Left,9,1,Negative,0,33,2,Living
+4993,33.55,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,15,0,Negative,1,50,2,Died of Disease
+4994,77.54,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,6,0,Positive,1,22,2,Died of Other Causes
+4996,69.65,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,11,0,Positive,0,18,2,Died of Other Causes
+4998,75.27,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,10,0,Negative,0,32,2,Died of Disease
+4999,44.84,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Right,6,1,Positive,1,30,2,Living
+5001,71.61,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,9,0,Negative,0,21,2,Died of Disease
+5004,42.84,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,17,1,Negative,1,37,2,Living
+5008,65.76,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Left,4,1,Negative,1,60,3,Living
+5011,67.68,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,4,0,Positive,1,23,2,Died of Other Causes
+5013,68.56,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Positive,1,20,2,Died of Other Causes
+5014,69.93,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,1,Positive,1,20,,Living
+5015,44.36,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Right,5,0,Positive,1,22,2,Died of Other Causes
+5017,65.86,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,1,Negative,1,14,2,Living
+5018,72.12,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Positive,0,30,2,Died of Other Causes
+5019,49.88,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Pre,Right,4,0,Positive,1,12,1,Died of Disease
+5020,62.68,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,0,Positive,1,17,2,Died of Disease
+5027,46.95,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Right,5,1,Positive,1,25,2,Living
+5033,63.92,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,8,0,Negative,1,43,2,Died of Disease
+5035,56.47,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,19,0,Positive,0,55,2,Died of Disease
+5039,67.7,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Negative,1,55,3,Died of Disease
+5040,72.73,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Negative,0,40,2,Died of Other Causes
+5041,45.4,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Left,2,1,Negative,1,20,1,Living
+5043,70.42,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Positive,1,40,3,Died of Disease
+5044,55.56,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,2,1,Negative,1,17,1,Living
+5045,70.11,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,13,0,Positive,1,25,2,Died of Other Causes
+5048,44.12,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Left,8,0,Positive,1,16,1,Died of Disease
+5049,61.76,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,3,1,Positive,0,17,1,Living
+5050,55.04,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,9,1,Positive,1,15,1,Living
+5052,76.66,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,0,Negative,0,35,2,Died of Other Causes
+5053,68.21,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,5,0,Positive,0,21,,Died of Other Causes
+5054,52.57,MASTECTOMY,Breast Cancer,Low,0,Negative,0,Post,Left,4,1,Negative,0,1,1,Living
+5057,39.25,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Pre,Right,12,0,Negative,0,15,1,Died of Disease
+5058,61.04,MASTECTOMY,Breast Cancer,High,1,Negative,1,Post,Right,6,0,Negative,1,15,2,Died of Disease
+5059,53.69,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,8,1,Positive,0,17,1,Living
+5060,75.01,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,6,0,Negative,1,25,2,Died of Other Causes
+5061,71.05,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,1,1,Positive,1,25,2,Living
+5062,75.55,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,7,1,Negative,1,20,2,Living
+5063,41.54,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,6,1,Negative,1,20,2,Living
+5064,63.4,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,11,1,Positive,0,20,1,Living
+5065,68.66,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Post,Right,3,1,Negative,0,16,1,Living
+5066,53.58,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,1,Positive,1,25,2,Living
+5068,71.19,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,5,1,Positive,1,15,,Living
+5070,47.38,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,7,1,Negative,0,30,,Living
+5072,52.23,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,12,0,Negative,0,30,2,Died of Disease
+5073,67.87,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,7,0,Positive,0,50,2,Died of Other Causes
+5074,70.59,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Negative,1,25,2,Died of Other Causes
+5078,56.33,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,0,Negative,1,24,2,Died of Disease
+5079,66.38,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Post,Right,7,1,Positive,1,15,1,Living
+5081,43.63,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Right,8,0,Positive,0,16,,Died of Disease
+5084,49,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Left,5,0,Negative,0,20,1,Died of Disease
+5086,65.41,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,5,0,Positive,0,10,1,Died of Other Causes
+5088,72.38,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,7,0,Negative,0,30,2,Died of Other Causes
+5092,76.37,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,7,0,Positive,0,20,2,Died of Other Causes
+5093,69.95,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Negative,0,30,2,Died of Other Causes
+5097,56.33,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,2,1,Positive,0,22,2,Living
+5098,61.92,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,7,0,Positive,0,18,1,Died of Other Causes
+5100,32.74,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,1,Pre,Left,6,0,Negative,1,20,2,Died of Disease
+5101,67.86,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,1,0,Positive,1,50,3,Died of Disease
+5102,69.93,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Post,Left,6,0,Negative,1,20,2,Died of Disease
+5105,63.24,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Post,Left,2,0,Positive,1,11,1,Died of Disease
+5107,61.06,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Positive,1,41,2,Died of Disease
+5110,59.12,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,0,Negative,0,25,2,Died of Disease
+5113,43.8,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Right,2,1,Negative,1,17,1,Living
+5114,57.87,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Negative,0,40,,Died of Disease
+5115,40.57,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,3,1,Negative,1,30,2,Living
+5116,74.71,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,6,0,Positive,1,18,2,Died of Disease
+5117,51.09,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,1,Positive,1,30,2,Living
+5118,72.14,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,1,Positive,1,12,1,Living
+5119,75.33,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,7,1,Negative,0,20,1,Living
+5120,47.24,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,9,0,Negative,1,30,2,Died of Disease
+5121,72.02,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Positive,0,18,,Died of Disease
+5122,77.66,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,0,Positive,1,40,,Died of Other Causes
+5123,69.72,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,8,0,Negative,0,20,2,Died of Disease
+5124,83.96,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Positive,0,26,3,Died of Disease
+5126,63.48,,Breast Cancer,Moderate,1,Negative,0,Post,Right,3,0,Negative,1,10,,Died of Disease
+5127,74.98,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Post,Left,2,0,Positive,1,30,2,Died of Other Causes
+5130,58.61,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Post,Right,13,0,Positive,1,15,1,
+5134,46.58,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Left,7,1,Positive,1,10,1,Living
+5135,38.59,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Pre,Right,7,0,Negative,1,35,2,Died of Disease
+5138,44.59,,Breast Cancer,High,1,Negative,1,Pre,Right,5,0,Negative,1,15,,Died of Disease
+5139,69.16,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,0,Negative,1,29,2,Died of Other Causes
+5143,78.8,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,5,0,Positive,1,20,1,Died of Other Causes
+5144,57.14,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,4,1,Positive,1,17,1,Living
+5145,61.55,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,0,Negative,1,25,2,Died of Disease
+5147,54.61,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,11,1,Negative,0,25,2,Living
+5148,76.72,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Post,Right,4,0,Negative,1,20,1,Died of Other Causes
+5150,69.29,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Post,Left,1,0,Positive,0,1,1,Died of Disease
+5152,76.19,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,16,0,Positive,0,17,2,Died of Other Causes
+5154,31.87,MASTECTOMY,Breast Cancer,Low,0,Negative,0,Pre,Left,2,1,Negative,0,1,1,Living
+5155,51.08,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,1,Post,Right,7,1,Negative,1,30,2,Living
+5157,70.68,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,8,0,Positive,1,12,,Died of Disease
+5160,68.52,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,8,0,Positive,1,25,2,Died of Disease
+5161,44.41,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Right,4,1,Positive,1,12,1,Living
+5162,53.38,MASTECTOMY,Breast Cancer,Low,0,,0,Post,Right,3,1,Negative,0,15,1,Living
+5163,69.04,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Negative,1,18,1,Died of Other Causes
+5164,48.76,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Pre,Right,9,1,Positive,1,13,1,Living
+5166,69.23,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,8,0,Positive,1,30,3,Died of Disease
+5167,60.46,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,1,Positive,0,30,2,Living
+5169,62.84,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,15,0,Positive,0,25,2,Died of Disease
+5171,46.79,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Pre,Right,3,0,Positive,1,11,1,Died of Disease
+5172,49.57,MASTECTOMY,Breast Cancer,Moderate,1,Negative,1,Pre,Right,11,1,Negative,1,40,3,Living
+5173,69.05,MASTECTOMY,Breast Cancer,High,0,Negative,1,Post,Left,8,0,Negative,0,50,2,Died of Disease
+5174,54.69,MASTECTOMY,Breast Cancer,High,0,,0,Post,Right,6,0,Negative,0,15,,Died of Other Causes
+5175,50.08,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,0,Positive,1,18,,Died of Other Causes
+5176,53.96,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,19,0,Negative,1,15,1,Died of Other Causes
+5177,68.53,,Breast Cancer,,0,Positve,1,Post,Right,3,0,Negative,0,,,Died of Other Causes
+5178,65.26,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,6,1,Negative,0,20,1,Living
+5179,68.6,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,9,0,Negative,0,15,1,Died of Other Causes
+5182,78.04,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Positive,1,30,,Died of Other Causes
+5183,74.34,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,0,Positive,1,15,1,Died of Other Causes
+5184,79.76,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,7,0,Positive,0,20,1,Died of Other Causes
+5185,61.88,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,7,0,Positive,0,35,2,Died of Disease
+5186,42.84,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Pre,Left,13,1,Positive,1,10,1,Living
+5188,65.44,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Negative,0,25,2,Died of Disease
+5189,69.24,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,0,Positive,0,50,2,Died of Disease
+5190,53.07,BREAST CONSERVING,Breast Cancer,Low,0,Negative,0,Post,Right,5,1,Negative,1,15,1,Living
+5191,54.75,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,0,Positive,0,20,1,Died of Other Causes
+5193,88.8,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Positive,0,30,2,Died of Other Causes
+5195,72.16,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,0,Positive,1,15,1,Died of Disease
+5196,52.98,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,13,0,Negative,0,15,1,Died of Disease
+5197,62.11,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,1,0,Negative,0,25,2,Died of Disease
+5199,65.35,MASTECTOMY,Breast Cancer,Low,0,Negative,1,Post,Right,2,1,Negative,0,15,1,Living
+5200,70.23,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Negative,1,15,1,Died of Disease
+5201,73.17,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,0,Positive,1,20,1,Died of Other Causes
+5204,76.91,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,0,Positive,0,24,2,Died of Other Causes
+5205,50.24,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Post,Left,9,1,Negative,1,35,2,Living
+5206,67.45,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,3,1,Negative,0,15,1,Living
+5208,52.43,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Post,Left,7,1,Negative,0,27,2,Living
+5209,79.17,MASTECTOMY,Breast Cancer,Moderate,0,Negative,1,Post,Right,6,0,Negative,1,60,2,Died of Other Causes
+5211,68.42,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Positive,0,30,2,Died of Other Causes
+5212,80.17,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,0,Negative,0,35,2,Died of Other Causes
+5213,74.98,MASTECTOMY,Breast Cancer,High,1,Negative,1,Post,Left,9,0,Negative,1,25,3,Died of Disease
+5214,66.57,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,1,0,Positive,1,20,1,Died of Other Causes
+5215,74.11,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,3,0,Negative,1,28,,Died of Disease
+5218,42.11,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Left,5,1,Negative,1,10,1,Living
+5221,63.53,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,6,0,Positive,0,20,1,Died of Other Causes
+5222,76.2,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,1,Post,Right,3,0,Negative,1,15,1,Died of Other Causes
+5223,42.05,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Pre,Right,2,0,Negative,1,22,2,Died of Disease
+5224,90.23,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,9,0,Positive,0,20,2,Died of Disease
+5225,68.01,BREAST CONSERVING,Breast Cancer,High,0,Negative,1,Post,Left,10,0,Negative,1,30,2,Died of Disease
+5226,75.53,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,5,1,Negative,1,15,1,Living
+5227,74.46,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Positive,0,15,2,Died of Other Causes
+5228,72.56,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,7,0,Positive,1,30,2,Died of Other Causes
+5229,39.99,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,8,0,Negative,0,25,2,Died of Disease
+5230,48.17,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Right,6,1,Positive,1,15,1,Living
+5231,61.28,MASTECTOMY,Breast Cancer,Moderate,0,Negative,1,Post,Left,5,0,Negative,0,25,2,Died of Disease
+5232,74.53,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Post,Left,5,0,Negative,1,14,1,Died of Other Causes
+5233,79.59,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,0,Positive,1,30,2,Died of Other Causes
+5235,59.04,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,13,0,Negative,1,6,1,Died of Disease
+5236,63.02,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Post,Right,5,1,Negative,1,65,3,Living
+5238,46.03,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Pre,Right,4,0,Negative,1,20,2,Died of Disease
+5239,69.5,MASTECTOMY,Breast Cancer,High,0,,0,Post,Right,1,1,Positive,0,15,1,Living
+5240,56.92,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,5,0,Positive,1,12,1,Died of Other Causes
+5243,62.79,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Negative,0,55,,Died of Other Causes
+5244,69.2,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,0,40,2,Died of Disease
+5251,76.77,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,0,Positive,0,20,2,Died of Disease
+5253,69.59,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,0,Positive,0,30,2,Died of Other Causes
+5256,70.31,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,0,Positive,1,23,2,Died of Disease
+5258,72.77,MASTECTOMY,Breast Cancer,High,0,Negative,1,Post,Left,5,0,Negative,0,30,2,Died of Other Causes
+5259,41.28,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,10,0,Negative,1,35,2,Died of Disease
+5260,72.23,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,5,0,Positive,1,15,1,Died of Other Causes
+5261,66.12,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,3,0,Positive,1,15,1,Died of Other Causes
+5264,46.4,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Left,7,1,Positive,1,18,1,Living
+5266,76.83,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,10,0,Negative,0,30,2,Died of Other Causes
+5267,52.77,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,6,0,Positive,1,15,1,Died of Disease
+5268,47.98,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Right,4,1,Positive,1,30,2,Living
+5270,67.1,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,7,0,Positive,0,35,2,Died of Other Causes
+5271,58.25,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,10,1,Negative,0,40,2,Living
+5272,40.71,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Left,10,0,Negative,1,20,1,Died of Disease
+5273,60.33,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Positive,0,20,1,Died of Disease
+5275,72.19,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,80,0,Negative,0,,,Died of Other Causes
+5277,35.78,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Pre,Right,5,0,Positive,0,18,,Died of Disease
+5278,47.92,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Left,2,0,Positive,0,20,1,Died of Disease
+5279,66.55,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,6,0,Negative,0,40,2,Died of Other Causes
+5280,45.85,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Pre,Left,9,0,Positive,0,2,,Died of Disease
+5281,55.72,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Post,Left,7,1,Negative,1,15,1,Living
+5284,68.18,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,9,0,Positive,1,40,2,Died of Other Causes
+5287,69.46,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,5,0,Positive,1,20,1,Died of Other Causes
+5288,70.1,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,22,0,Negative,1,35,2,Died of Other Causes
+5290,69.42,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,7,0,Positive,0,22,2,Died of Other Causes
+5291,67.25,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,4,1,Positive,1,15,1,Living
+5292,82.06,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,5,0,Negative,0,5,,Died of Disease
+5293,70.86,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,10,0,Positive,1,30,2,Died of Disease
+5294,31.71,MASTECTOMY,Breast Cancer,Moderate,1,Negative,1,Pre,Right,5,1,Positive,1,99,3,Living
+5295,60.51,BREAST CONSERVING,Breast Cancer,Low,0,Negative,0,Post,Left,10,0,Negative,1,25,2,Died of Other Causes
+5296,78.93,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,7,0,Negative,1,40,3,Died of Disease
+5298,49.63,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Right,3,0,Negative,0,23,2,Died of Disease
+5299,53.35,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Post,Left,8,0,Negative,0,40,2,Died of Disease
+5300,55.53,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,7,1,Positive,1,15,1,Living
+5305,61.88,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,0,Positive,0,30,2,Died of Disease
+5306,58.26,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,7,1,Negative,0,15,1,Living
+5308,67.62,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Right,5,0,Positive,1,25,2,Died of Disease
+5310,71.4,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Negative,0,30,2,Died of Other Causes
+5311,73.01,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,8,0,Positive,1,27,2,Died of Disease
+5312,50.6,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,2,0,Negative,0,60,3,Died of Disease
+5313,79.12,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Positive,0,30,2,Died of Disease
+5315,52.13,MASTECTOMY,Breast Cancer,High,1,Negative,1,Post,Left,6,0,Negative,1,80,3,Died of Disease
+5317,69.7,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,1,15,2,Died of Disease
+5318,60.96,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,2,0,Negative,1,18,1,Died of Disease
+5322,66.58,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,7,0,Negative,1,23,2,Died of Disease
+5323,31.26,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Pre,Left,3,1,Negative,0,15,1,Living
+5324,64.01,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,14,0,Positive,0,10,1,Died of Other Causes
+5326,79.26,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,0,Negative,1,48,2,Died of Other Causes
+5327,66.94,BREAST CONSERVING,Breast Cancer,High,0,Negative,1,Post,Left,7,1,Negative,1,25,2,Living
+5328,74.57,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Negative,0,50,2,Died of Other Causes
+5329,64.64,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,14,0,Negative,1,65,3,Died of Disease
+5330,70.49,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,12,0,Positive,0,25,,Died of Other Causes
+5331,54.69,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,6,0,Negative,0,23,2,Died of Disease
+5332,68.93,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,8,0,Positive,0,18,2,Died of Disease
+5334,78.44,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,1,0,Positive,1,20,1,Died of Other Causes
+5335,41.81,MASTECTOMY,Breast Cancer,High,0,Negative,0,Pre,Right,4,0,Negative,0,27,2,Died of Disease
+5338,61.24,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,11,0,Negative,1,20,2,Died of Disease
+5339,71.78,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,4,1,Negative,1,15,2,Living
+5341,56.37,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,8,1,Positive,1,20,1,Living
+5345,76.87,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,0,Positive,1,15,2,Died of Disease
+5346,52.09,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,9,1,Negative,1,80,,Living
+5347,56.89,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,1,25,2,Died of Disease
+5348,41.27,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,3,1,Negative,0,15,2,Living
+5350,66.7,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,3,0,Negative,1,25,2,Died of Disease
+5351,47.35,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Left,10,1,Negative,0,2,1,Living
+5358,72.88,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,0,Negative,1,57,3,Died of Disease
+5360,66.39,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,10,0,Negative,1,70,3,Died of Other Causes
+5361,76.01,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Positive,0,40,2,Died of Disease
+5364,56.89,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,0,Positive,1,15,1,Died of Disease
+5365,79.29,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,8,0,Positive,0,25,2,Died of Disease
+5366,75.56,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,1,Negative,0,40,2,Living
+5368,77.15,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,8,0,Positive,0,15,2,Died of Other Causes
+5369,66.18,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Positive,1,25,2,Died of Disease
+5370,62.55,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,0,Positive,1,22,2,Died of Other Causes
+5373,67.13,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Right,4,1,Negative,1,25,2,Living
+5377,35.14,MASTECTOMY,Breast Cancer,High,1,Negative,1,Pre,Right,9,0,Positive,1,45,2,Died of Disease
+5378,57.99,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,6,0,Negative,1,45,3,Died of Disease
+5381,44,MASTECTOMY,Breast Cancer,Moderate,1,Negative,1,Pre,Right,8,0,Negative,1,50,2,Died of Disease
+5382,69.27,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Positive,1,30,2,Died of Other Causes
+5383,83.9,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,0,Positive,0,75,,Died of Disease
+5384,61.05,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,0,13,,Died of Other Causes
+5386,65.86,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,5,1,Positive,1,20,1,Living
+5388,69.8,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,3,0,Positive,1,15,1,Died of Other Causes
+5389,64.76,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,8,0,Positive,1,31,2,Died of Other Causes
+5390,37.27,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Pre,Left,5,0,Negative,1,13,3,Died of Disease
+5392,57.34,MASTECTOMY,Breast Cancer,High,0,Negative,1,Post,Right,10,1,Negative,0,14,1,Living
+5393,82.72,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,5,0,Positive,0,22,2,Died of Other Causes
+5395,71.51,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,6,1,Positive,1,14,1,Living
+5396,61.84,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,9,1,Negative,1,14,1,Living
+5397,61.16,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,0,50,,Died of Disease
+5398,71.01,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,3,1,Positive,1,20,2,Living
+5399,73.1,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,6,0,Negative,0,22,2,Died of Disease
+5401,75.42,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,1,Positive,0,12,1,Living
+5402,81.76,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,5,0,Positive,0,16,1,Died of Other Causes
+5403,85.94,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,1,0,Positive,0,25,2,Died of Other Causes
+5404,81.57,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,11,0,Positive,0,35,2,Died of Disease
+5405,64.43,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,6,1,Negative,1,25,2,Living
+5406,80.48,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,6,0,Positive,1,30,2,Died of Disease
+5407,36.03,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Pre,Right,9,1,Positive,1,1,1,Living
+5408,65.48,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,6,1,Negative,1,16,1,Living
+5409,51.62,MASTECTOMY,Breast Cancer,High,1,Negative,1,Post,Left,9,1,Negative,1,22,2,Living
+5410,66.45,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,7,1,Positive,1,30,2,Living
+5411,43.61,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,6,0,Negative,0,18,2,Died of Disease
+5412,51.87,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,10,1,Positive,1,14,1,Living
+5414,61.14,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Negative,1,25,2,Died of Other Causes
+5417,45.8,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,10,1,Negative,1,60,3,Living
+5418,64.15,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,4,1,Positive,0,25,2,Living
+5420,71.49,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Post,Left,,1,Negative,1,20,1,Living
+5421,68,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Left,4,1,Negative,1,20,1,Living
+5422,47.14,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Right,6,0,Positive,0,32,2,Died of Disease
+5424,66.42,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,4,0,Positive,0,13,1,Died of Disease
+5425,67.59,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,7,0,Positive,0,40,2,Died of Disease
+5426,53.69,BREAST CONSERVING,Breast Cancer,Low,1,Negative,1,Post,Left,4,0,Positive,1,25,2,Died of Disease
+5427,83.68,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,1,Post,Right,6,0,Negative,1,25,2,Died of Other Causes
+5428,55.36,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,5,1,Positive,1,15,1,Living
+5429,86.04,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,4,0,Negative,0,20,1,Died of Other Causes
+5431,49.91,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Pre,Left,9,0,Positive,1,15,1,Died of Disease
+5432,61,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Positive,1,22,2,Died of Other Causes
+5433,69.37,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,0,Positive,0,30,2,Died of Disease
+5434,71.07,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,18,0,Positive,0,55,3,Died of Disease
+5435,77.09,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,0,Positive,0,25,2,Died of Other Causes
+5440,49.05,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,8,1,Negative,1,18,2,Living
+5441,90.08,MASTECTOMY,Breast Cancer,Moderate,0,Negative,1,Post,Right,12,0,Negative,0,35,3,Died of Other Causes
+5442,44.93,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Right,4,1,Positive,1,35,2,Living
+5444,49.58,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Pre,Left,6,1,Positive,1,15,,Living
+5446,51.25,MASTECTOMY,Breast Cancer,Moderate,1,Negative,1,Post,Left,7,0,Negative,1,25,2,Died of Disease
+5447,68.1,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,6,0,Positive,1,12,3,Died of Disease
+5450,38.92,BREAST CONSERVING,Breast Cancer,Low,0,Negative,0,Pre,Right,6,1,Negative,1,12,1,Living
+5451,43.44,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Right,11,1,Positive,1,15,1,Living
+5452,66.2,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,6,0,Positive,1,18,2,Died of Other Causes
+5453,36.99,BREAST CONSERVING,Breast Cancer,Low,1,Negative,0,Pre,Left,9,0,Positive,1,30,2,Died of Disease
+5454,55.57,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Negative,1,30,2,Died of Disease
+5455,73.24,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,9,0,Negative,0,10,2,Died of Other Causes
+5457,52.57,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,8,0,Positive,0,16,1,Died of Disease
+5458,54.96,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Post,Right,7,1,Negative,0,25,2,Living
+5459,64.07,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,0,Negative,1,20,2,Died of Disease
+5463,71.91,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,3,0,Positive,1,48,2,Died of Other Causes
+5464,65.58,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,0,Positive,1,18,2,Died of Other Causes
+5465,69.83,BREAST CONSERVING,Breast Cancer,Low,0,Negative,1,Post,Right,7,0,Negative,1,25,2,Died of Disease
+5468,48.1,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Right,5,1,Negative,1,25,2,Living
+5470,48.07,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Right,6,0,Positive,0,,,Died of Disease
+5471,67.54,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,10,1,Negative,0,13,1,Living
+5472,74.78,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,3,0,Positive,1,25,,Died of Disease
+5473,72.61,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,3,0,Positive,1,35,2,Died of Other Causes
+5474,46.26,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Left,9,1,Negative,0,35,2,Living
+5475,73.55,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Positive,0,23,2,Died of Other Causes
+5477,59.02,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,1,Positive,0,35,2,Living
+5478,72.23,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,0,Negative,1,20,3,Died of Other Causes
+5481,57.62,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Negative,1,30,2,Died of Disease
+5482,40.75,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Pre,Right,6,0,Negative,1,16,2,Died of Disease
+5483,44.5,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Right,13,0,Negative,1,25,2,Died of Disease
+5484,47.3,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Right,7,1,Positive,1,20,1,Living
+5485,80.08,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,0,Negative,1,30,2,Died of Other Causes
+5486,75.65,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,13,0,Positive,1,25,2,Died of Disease
+5489,53.6,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,3,1,Positive,0,15,1,Living
+5490,65.31,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,5,0,Positive,0,40,2,Died of Disease
+5491,72.25,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,10,0,Positive,0,65,2,Died of Disease
+5492,74.28,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,8,0,Negative,0,51,,Died of Disease
+5493,69.84,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,9,0,Negative,0,51,,Died of Disease
+5495,42.64,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Right,9,1,Positive,0,20,,Living
+5497,69.56,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,6,1,Positive,1,20,1,Living
+5498,64.1,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,6,1,Negative,1,15,1,Living
+5499,65.5,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,5,1,Positive,0,20,1,Living
+5502,51.62,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,7,1,Positive,1,28,2,Living
+5505,74.26,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,7,0,Positive,1,15,1,Died of Disease
+5510,75.73,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,10,0,Positive,0,35,,Died of Disease
+5511,54.18,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Left,13,1,Positive,0,20,1,Living
+5513,86.55,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,7,0,Positive,0,29,2,Died of Disease
+5514,63.45,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,1,1,Positive,1,20,2,Living
+5518,72.39,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Positive,1,20,2,Died of Disease
+5519,72.61,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,7,0,Positive,0,45,,Died of Other Causes
+5520,38.49,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Left,5,0,Negative,0,25,2,Died of Disease
+5521,69.27,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,10,1,Negative,1,45,2,Living
+5525,63.2,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,9,1,Negative,1,28,2,Living
+5526,45.42,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Pre,Right,10,1,Negative,1,20,1,Living
+5527,53.48,MASTECTOMY,Breast Cancer,,1,Negative,1,Post,Left,3,1,Negative,1,11,2,Living
+5529,40.21,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,5,0,Negative,1,35,2,Died of Disease
+5530,50.61,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,6,1,Positive,0,25,2,Living
+5531,66.56,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,Right,7,1,Negative,1,15,1,Living
+5532,69.66,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,3,0,Negative,0,30,2,Died of Disease
+5533,71.64,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,7,1,Positive,1,20,2,Living
+5534,80.09,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,0,Negative,1,25,3,Died of Disease
+5535,49.87,MASTECTOMY,Breast Cancer,High,1,Negative,1,Pre,Left,5,0,Negative,1,22,2,Died of Disease
+5540,76.53,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,7,0,Negative,0,20,,Died of Disease
+5541,60.13,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,1,Positive,1,20,1,Living
+5543,79.11,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,8,0,Positive,0,40,2,Died of Other Causes
+5547,43.08,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Pre,Right,5,1,Negative,1,30,2,Living
+5548,62.43,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Left,3,1,Negative,0,50,,Living
+5549,54.83,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Post,Left,6,0,Negative,1,20,2,Died of Disease
+5550,84.3,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,0,Positive,0,26,2,Died of Other Causes
+5551,67.24,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,1,Post,Right,8,1,Negative,1,27,2,Living
+5552,69.77,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,0,Positive,0,40,,Died of Disease
+5553,70.52,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,5,0,Positive,0,30,2,Died of Other Causes
+5554,57.75,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,1,Positive,1,26,2,Living
+5556,53.56,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,9,1,Negative,1,20,1,Living
+5558,35.13,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Pre,Right,9,1,Positive,0,75,3,Living
+5559,42.12,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Pre,Left,4,0,Positive,1,48,2,Died of Disease
+5560,44.05,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Pre,Right,2,1,Negative,1,15,1,Living
+5562,73.93,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,2,0,Positive,1,15,1,Died of Other Causes
+5563,76.3,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Post,Right,7,0,Negative,0,15,1,Died of Other Causes
+5565,64.27,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Post,Left,3,0,Positive,1,30,2,Died of Other Causes
+5566,38.44,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Pre,Right,3,1,Negative,1,32,,Living
+5567,74.95,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Positive,1,20,1,Died of Other Causes
+5571,78.84,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,0,25,2,Died of Disease
+5572,47.88,BREAST CONSERVING,Breast Cancer,,0,Negative,0,Pre,Right,2,1,Negative,1,15,1,Living
+5575,52.63,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Positive,1,20,1,Died of Other Causes
+5576,67.79,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,10,1,Positive,1,20,1,Living
+5577,68.64,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,9,0,Negative,0,60,3,Died of Disease
+5579,68.82,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Positive,1,30,2,Died of Disease
+5580,75.28,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,9,0,Positive,0,25,2,Died of Other Causes
+5582,46.43,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Left,6,1,Positive,1,10,1,Living
+5583,50.75,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,3,1,Positive,1,16,1,Living
+5584,69.55,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,23,0,Negative,0,20,1,Died of Other Causes
+5588,66.55,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,0,Negative,0,18,2,Died of Disease
+5589,70.86,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,5,1,Positive,1,20,,Living
+5590,64.93,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,12,1,Positive,0,26,2,Living
+5591,46.28,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Left,14,0,Positive,0,15,,Died of Other Causes
+5592,66.01,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Post,Left,11,0,Positive,1,20,,Died of Other Causes
+5593,40.53,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Pre,Left,11,0,Negative,1,35,,Died of Disease
+5596,54.27,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,11,0,Positive,0,30,,Died of Disease
+5597,75.38,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,0,Positive,0,30,2,Died of Other Causes
+5599,62.88,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,5,1,Positive,1,20,,Living
+5601,61.73,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Negative,1,16,,Died of Other Causes
+5602,39.7,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,5,1,Negative,1,40,,Living
+5603,70.79,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Negative,1,20,,Died of Other Causes
+5604,66.88,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,5,1,Positive,1,25,2,Living
+5605,40.37,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,Right,4,1,Positive,1,25,2,Living
+5613,80.21,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,7,0,Positive,0,50,3,Died of Other Causes
+5614,62.87,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Post,Left,9,0,Positive,1,17,1,Died of Disease
+5616,41.53,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Pre,Left,3,1,Negative,1,20,2,Living
+5617,81.63,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,2,0,Positive,1,32,2,Died of Other Causes
+5620,79.42,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Positive,0,31,,Died of Disease
+5622,62.89,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,4,1,Positive,1,23,2,Living
+5623,44.99,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Right,12,0,Positive,0,20,1,Died of Other Causes
+5624,55.43,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Post,Right,17,1,Negative,1,25,,Living
+5626,73.75,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,1,Negative,1,20,2,Living
+5628,65.06,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,6,0,Positive,1,,,Died of Disease
+5629,71.36,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Positive,1,30,,Died of Other Causes
+5632,78.55,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Negative,1,35,2,Died of Disease
+5633,62.7,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Left,2,0,Negative,1,30,3,Died of Disease
+5634,55.53,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Right,4,0,Negative,0,30,2,Died of Disease
+5635,57.2,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,8,0,Negative,1,15,1,Died of Disease
+5636,68.49,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,0,Positive,0,30,,Died of Other Causes
+5638,65.14,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,0,Positive,1,20,1,Died of Other Causes
+5640,58,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Post,Left,5,1,Positive,0,1,1,Living
+5641,78.64,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,3,1,Positive,1,22,2,Living
+5642,68.13,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,0,Positive,1,34,3,Died of Other Causes
+5645,71.31,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,6,0,Positive,1,20,1,Died of Other Causes
+5646,58.4,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,7,0,Negative,1,30,2,Died of Other Causes
+5647,65.43,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Negative,1,35,2,Died of Other Causes
+5651,51.98,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,1,Post,Right,7,0,Negative,1,26,2,Died of Disease
+5652,68.75,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,1,Post,Left,7,0,Negative,1,15,1,Died of Other Causes
+5653,60.72,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,1,Negative,0,25,2,Living
+5654,82.94,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,0,55,,Died of Other Causes
+5655,67.57,MASTECTOMY,Breast Cancer,High,0,Negative,1,Post,Right,9,1,Negative,0,25,2,Living
+5656,74.76,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Post,Left,11,0,Positive,0,16,1,Died of Other Causes
+6001,68.7,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,0,Negative,0,15,,Died of Other Causes
+6006,86.61,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,10,0,Positive,0,16,1,Died of Other Causes
+6007,70.65,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,20,0,Negative,0,25,2,Died of Other Causes
+6008,80.33,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,8,0,Positive,0,25,,Died of Disease
+6010,70.28,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,7,1,Negative,0,15,,Living
+6011,59.22,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,7,0,Negative,0,25,,Died of Disease
+6012,67.46,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,8,0,Positive,0,33,,Died of Other Causes
+6014,44.48,MASTECTOMY,Breast Cancer,Low,0,Negative,0,Pre,Right,2,0,Positive,0,57,,Died of Other Causes
+6016,87.32,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,4,0,Positive,0,23,,Died of Other Causes
+6017,72.19,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,0,Positive,0,30,,Died of Other Causes
+6018,65.03,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Post,Right,5,0,Positive,0,25,,Died of Disease
+6019,67,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,9,0,Negative,0,70,,Died of Other Causes
+6021,51.94,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,4,1,Positive,0,,,Living
+6022,90,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,6,0,Positive,0,50,,Died of Disease
+6023,60.28,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,5,1,Negative,0,34,,Living
+6024,65.63,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,3,0,Positive,0,20,,Died of Disease
+6026,87.75,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,10,0,Negative,0,25,,Died of Other Causes
+6029,63.35,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,13,0,Positive,1,10,,Died of Disease
+6030,66.76,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,0,20,,Died of Other Causes
+6036,44.65,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Pre,Left,7,1,Negative,0,20,,Living
+6039,65.96,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Positive,0,35,,Died of Other Causes
+6042,70.12,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,9,1,Positive,0,30,,Living
+6044,70.64,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,6,0,Negative,0,30,,Died of Other Causes
+6047,72.94,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,14,0,Positive,0,15,,Died of Disease
+6048,58.84,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Positive,0,25,,Died of Other Causes
+6049,62.29,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,20,1,Positive,0,40,,Living
+6050,51.07,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,3,1,Positive,0,20,,Living
+6051,65.39,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Negative,0,36,,Died of Disease
+6052,36.47,MASTECTOMY,Breast Cancer,Low,0,Negative,0,Pre,Left,6,1,Negative,0,15,,Living
+6053,69.39,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,1,Negative,0,26,,Living
+6055,33.08,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,12,1,Negative,1,25,,Living
+6058,41.79,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,10,0,Negative,0,18,,Died of Disease
+6059,50.88,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,6,1,Positive,0,48,,Living
+6060,53.79,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,12,0,Positive,0,30,,Died of Other Causes
+6062,31.6,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Pre,Left,7,1,Negative,1,22,,Living
+6063,58.9,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,2,0,Negative,0,120,,Died of Disease
+6065,76.69,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,10,0,Positive,0,48,,Died of Other Causes
+6068,43.75,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Pre,Right,5,0,Positive,0,,,Died of Other Causes
+6069,75.55,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Positive,1,20,,Died of Other Causes
+6071,72.81,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,9,0,Positive,0,34,,Died of Disease
+6075,84.04,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,3,0,Positive,0,25,,Died of Disease
+6077,70.92,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Post,Left,6,0,Positive,0,16,,Died of Other Causes
+6079,68.91,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,5,0,Negative,1,,,Died of Disease
+6080,79.04,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,4,0,Positive,1,30,3,Died of Disease
+6082,46.47,MASTECTOMY,Breast Cancer,Low,1,Negative,0,Pre,Right,15,0,Negative,0,70,,Died of Disease
+6083,73.03,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,11,0,Positive,0,21,,Died of Other Causes
+6085,58.38,MASTECTOMY,Breast Cancer,High,1,Negative,1,Post,Right,12,1,Negative,0,26,,Living
+6092,80.59,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,6,0,Negative,0,21,,Died of Other Causes
+6097,68.59,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,6,0,Negative,1,8,,Died of Other Causes
+6098,28.29,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,6,0,Negative,0,80,,Died of Disease
+6100,53.45,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Left,4,0,Negative,1,30,3,Died of Disease
+6101,82.51,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,10,0,Positive,0,35,,Died of Other Causes
+6103,66.28,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,4,1,Negative,0,,,Living
+6105,78.93,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,6,0,Positive,0,13,,Died of Other Causes
+6107,71.38,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,13,0,Positive,0,,,Died of Other Causes
+6108,38.01,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Right,2,1,Positive,0,18,1,Living
+6113,39.41,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,4,0,Negative,0,20,2,Died of Disease
+6114,70.76,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,6,1,Positive,0,28,,Living
+6116,66.13,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Right,11,1,Positive,0,30,,Living
+6118,41.11,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Pre,Right,8,1,Positive,1,15,1,Living
+6122,54.74,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Left,7,1,Positive,0,35,,Living
+6124,76.99,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Positive,0,15,,Died of Other Causes
+6125,63.27,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,7,0,Positive,0,15,,Died of Other Causes
+6131,57.27,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,10,1,Negative,0,61,,Living
+6133,74.6,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,7,0,Negative,0,39,,Died of Disease
+6135,69.38,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Positive,0,15,,Died of Other Causes
+6138,85.85,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Negative,0,37,2,Died of Disease
+6141,79.84,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,1,0,Negative,0,,,Died of Other Causes
+6143,60.6,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Post,Right,6,1,Negative,1,46,2,Living
+6144,64.55,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,1,1,Negative,0,20,,Living
+6145,60.41,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Negative,0,45,,Died of Disease
+6146,51.04,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,7,0,Positive,0,6,,Died of Disease
+6147,76.01,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,6,0,Positive,0,15,,Died of Other Causes
+6149,70.9,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,4,0,Positive,0,26,,Died of Other Causes
+6150,59.47,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,7,0,Negative,0,21,,Died of Other Causes
+6152,60.62,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,13,1,Negative,0,17,,Living
+6154,71.74,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,4,1,Positive,0,25,,Living
+6156,49.5,MASTECTOMY,Breast Cancer,High,0,Positve,0,Pre,Left,4,0,Positive,0,25,,Died of Disease
+6157,86.29,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,0,Negative,1,35,,Died of Disease
+6160,46.23,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Right,4,1,Negative,0,,,Living
+6163,71.62,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Positive,0,35,,Died of Other Causes
+6164,77.45,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,8,1,Positive,0,13,,Living
+6167,75.02,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,7,0,Negative,0,15,,Died of Other Causes
+6168,64.95,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,8,0,Positive,0,20,,Died of Other Causes
+6169,39.17,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,Left,7,0,Negative,0,25,,Died of Other Causes
+6171,70.91,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,4,1,Positive,0,40,,Living
+6178,38.58,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Pre,Left,6,0,Negative,0,32,,Died of Disease
+6179,59.08,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,6,0,Positive,0,33,,Died of Disease
+6181,83.09,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,0,15,,Died of Other Causes
+6182,56.47,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,14,1,Negative,1,21,,Living
+6183,66.24,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,8,0,Positive,0,18,1,Died of Other Causes
+6184,35.02,MASTECTOMY,Breast Cancer,High,1,Positve,1,Pre,Right,5,0,Positive,0,50,,Died of Disease
+6185,75.44,MASTECTOMY,Breast Cancer,Low,0,Positve,0,Post,Right,6,0,Positive,0,16,,Died of Other Causes
+6187,70.35,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,2,0,Positive,0,79,,Died of Other Causes
+6188,41.92,MASTECTOMY,Breast Cancer,High,0,Negative,0,Pre,Right,7,1,Negative,0,28,,Living
+6189,56.25,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,1,Positive,1,42,2,Living
+6190,79.24,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Negative,0,28,,Died of Other Causes
+6192,78.45,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,7,0,Positive,0,35,,Died of Other Causes
+6194,44.51,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Left,8,0,Positive,1,25,2,Died of Disease
+6195,66.01,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,8,1,Negative,0,23,,Living
+6200,65.52,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Negative,0,30,,Died of Disease
+6201,79.2,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,5,0,Positive,1,10,1,Died of Other Causes
+6204,41.08,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Left,4,0,Positive,0,23,,Died of Other Causes
+6207,80.76,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,6,0,Negative,0,15,,Died of Other Causes
+6208,56.93,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,8,1,Negative,1,20,2,Living
+6211,82.1,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,4,0,Positive,0,23,,Died of Other Causes
+6212,61.81,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,4,1,Positive,1,15,1,Living
+6214,74.43,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Positive,0,20,,Died of Other Causes
+6217,47.51,MASTECTOMY,Breast Cancer,Moderate,1,Negative,1,Pre,Right,6,0,Positive,0,,,Died of Other Causes
+6218,49.67,MASTECTOMY,Breast Cancer,High,0,Positve,0,Pre,Left,7,0,Negative,0,22,2,Died of Disease
+6223,58.83,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Left,5,1,Negative,1,20,2,Living
+6224,66.94,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,4,0,Positive,1,10,2,Died of Disease
+6225,68.43,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,17,1,Positive,0,16,1,Living
+6226,73.37,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,0,Positive,0,37,,Died of Other Causes
+6228,37.33,MASTECTOMY,Breast Cancer,Moderate,0,Negative,0,Pre,Left,5,1,Positive,0,20,,Living
+6229,75.33,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,5,0,Positive,0,15,1,Died of Disease
+6231,77.96,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,7,0,Positive,0,20,,Died of Other Causes
+6232,71.22,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,11,0,Positive,0,30,2,Died of Other Causes
+6233,70.65,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,9,1,Positive,1,20,1,Living
+6234,66.35,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,4,1,Positive,0,,,Living
+6237,75.62,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Right,4,0,Negative,0,20,1,Died of Other Causes
+6238,84.87,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Left,6,0,Positive,0,29,,Died of Disease
+6239,52.84,BREAST CONSERVING,Breast Cancer,High,1,Positve,0,Post,Right,5,1,Positive,1,20,2,Living
+6242,41.29,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,15,1,Negative,1,55,,Living
+6245,47.01,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Pre,Right,5,1,Negative,0,20,,Living
+6246,58.39,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,9,0,Negative,0,30,,Died of Other Causes
+6248,51.22,MASTECTOMY,Breast Cancer,High,1,Negative,1,Post,Left,8,1,Negative,1,55,,Living
+6251,48.59,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,6,0,Negative,1,30,2,Died of Disease
+6253,62.9,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,7,1,Positive,1,11,,Living
+6254,78.69,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,4,0,Positive,0,71,,Died of Disease
+6256,67.33,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,5,0,Positive,1,14,,Died of Other Causes
+6257,49.38,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,Left,3,1,Positive,1,16,,Living
+6263,79.42,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,5,1,Negative,0,24,,Living
+6271,64.4,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,11,1,Negative,0,25,,Living
+6272,36.93,BREAST CONSERVING,Breast Cancer,Low,1,Negative,0,Pre,Right,6,0,Negative,1,,,Died of Disease
+6273,43.08,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,9,1,Positive,0,16,,Living
+6280,53.68,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,6,0,Negative,1,44,,Died of Disease
+6281,75.1,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,0,5,,Died of Other Causes
+6283,73.07,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,10,0,Positive,0,25,,Died of Other Causes
+6284,67.81,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,0,Positive,1,30,,Died of Other Causes
+6286,85.17,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,4,0,Positive,0,20,,Died of Other Causes
+6287,58.08,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Right,5,0,Positive,1,35,,Died of Disease
+6288,74.33,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,1,23,,Died of Disease
+6297,52.55,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,6,1,Negative,1,30,,Living
+6300,62.92,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,0,15,,Died of Other Causes
+6302,67.78,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Negative,1,27,,Died of Other Causes
+6305,52.85,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,9,0,Negative,1,30,,Died of Disease
+6306,78.22,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,1,29,,Died of Other Causes
+6308,81.75,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Positive,1,23,,Died of Other Causes
+6312,85.02,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,1,Negative,0,39,,Living
+6314,68.57,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Left,5,1,Negative,0,14,,Living
+6317,86.9,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,7,0,Positive,0,53,,Died of Other Causes
+6318,81.37,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,14,0,Negative,0,35,,Died of Other Causes
+6319,57.9,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Post,Right,2,1,Positive,1,62,,Living
+6322,80.93,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,11,0,Negative,1,25,,Died of Other Causes
+6327,76.56,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Negative,1,60,,Died of Disease
+6328,75.89,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,2,1,Positive,0,30,,Living
+6329,68.48,BREAST CONSERVING,Breast Cancer,High,0,Negative,1,Post,Right,7,0,Positive,0,23,,Died of Other Causes
+6330,36.81,MASTECTOMY,Breast Cancer,High,1,Negative,1,Pre,Right,4,1,Negative,1,20,,Living
+6334,60.12,MASTECTOMY,Breast Cancer,High,0,Negative,1,Post,Right,6,1,Positive,0,21,,Living
+6336,63.22,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Right,2,0,Negative,1,25,,Died of Disease
+6337,58.25,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,7,0,Negative,1,55,,Died of Other Causes
+6344,82,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Right,9,0,Negative,0,60,,Died of Disease
+6346,63.2,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Post,Right,3,1,Positive,1,22,2,Living
+6358,57.77,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,4,0,Negative,0,25,,Died of Disease
+6359,73.42,MASTECTOMY,Breast Cancer,,0,Positve,0,Post,Left,8,0,Negative,0,22,,Died of Disease
+6363,60.77,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Right,7,0,Negative,1,25,,Died of Disease
+7000,69.28,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,9,1,Positive,0,11,,Living
+7001,72.71,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,9,1,Negative,1,10,,Living
+7002,74.52,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,7,1,Positive,0,16,,Living
+7003,50.44,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,5,0,Positive,0,27,,Died of Other Causes
+7004,74.2,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,9,1,Negative,1,30,,Living
+7005,70.84,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,2,1,Negative,1,26,,Living
+7006,58.8,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Left,11,1,Positive,1,19,,Living
+7007,54.44,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,7,1,Negative,1,17,,Living
+7008,69.94,MASTECTOMY,Breast Cancer,High,0,Negative,0,Post,Right,2,0,Negative,0,24,,Died of Other Causes
+7009,68.28,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Right,3,0,Negative,1,27,,Died of Disease
+7010,70.25,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,7,1,Positive,0,23,,Living
+7011,68.9,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,0,Positive,1,40,,Died of Other Causes
+7012,60.96,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Left,5,0,Negative,1,20,,Died of Disease
+7013,30.53,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,Right,5,1,Positive,1,18,,Living
+7014,67.57,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,16,1,Positive,1,19,,Living
+7015,63.79,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,3,1,Positive,1,25,,Living
+7017,36.63,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Right,5,1,Negative,1,27,,Living
+7018,72.12,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Right,5,0,Negative,1,40,,Died of Disease
+7019,68.44,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,0,Positive,0,21,,Died of Other Causes
+7020,44.47,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Left,10,0,Negative,0,27,,Died of Disease
+7022,70.61,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,7,1,Positive,0,34,,Living
+7023,66.66,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,6,0,Negative,1,40,,Died of Disease
+7024,54.92,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,9,1,Negative,0,18,,Living
+7025,65.22,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Post,,2,1,Negative,1,13,,Living
+7026,35.27,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Left,6,0,Positive,1,26,,Died of Other Causes
+7027,60.56,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Post,Right,6,0,Negative,1,15,,Died of Disease
+7028,65.94,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,8,1,Negative,1,28,,Living
+7029,43.45,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Pre,Left,7,1,Positive,1,23,,Living
+7030,74.21,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,5,0,Negative,1,50,,Died of Other Causes
+7031,60.58,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Right,5,1,Negative,1,40,,Living
+7032,79.36,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,4,1,Positive,0,23,,Living
+7034,78.73,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,1,Positive,0,43,,Living
+7035,45.3,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Right,4,0,Negative,1,50,,Died of Disease
+7036,54.48,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,,4,1,Negative,1,18,,Living
+7037,68.74,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Left,3,1,Positive,1,15,,Living
+7038,57.62,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Right,16,1,Negative,1,22,,Living
+7039,78.19,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,0,Negative,0,62,,Died of Disease
+7040,81.32,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,1,Negative,0,22,,Living
+7041,79.48,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,16,0,Positive,0,25,,Died of Other Causes
+7042,61.72,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,11,1,Positive,1,26,,Living
+7043,72.65,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,1,Positive,1,18,,Living
+7044,67.24,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,Right,4,1,Positive,1,15,,Living
+7045,61.39,BREAST CONSERVING,Breast Cancer,High,0,Negative,1,Post,Right,3,0,Negative,1,20,,Died of Disease
+7046,76.02,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,,8,0,Negative,1,23,,Died of Other Causes
+7048,36.27,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,Right,5,1,Negative,1,14,,Living
+7049,48.75,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Pre,Right,7,1,Negative,1,18,,Living
+7050,64.99,BREAST CONSERVING,Breast Cancer,Moderate,1,Positve,1,Post,Right,5,0,Positive,1,22.5,,Died of Disease
+7051,63.44,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Negative,1,20,,Died of Disease
+7052,45.45,BREAST CONSERVING,Breast Cancer,High,0,Negative,0,Pre,Right,3,1,Negative,1,17.9,,Living
+7053,45.64,BREAST CONSERVING,Breast Cancer,High,0,Positve,0,Pre,,6,1,Positive,1,14.5,,Living
+7054,73.74,MASTECTOMY,Breast Cancer,Low,1,Positve,1,Post,,5,0,Positive,0,12.8,,Died of Disease
+7055,54.87,MASTECTOMY,Breast Cancer,Low,0,Negative,0,Post,,6,0,Negative,0,26,,Died of Disease
+7056,71.82,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,20,1,Positive,0,21,,Living
+7057,72.81,MASTECTOMY,Breast Cancer,High,1,Negative,1,Post,Left,8,0,Negative,0,22,,Died of Disease
+7058,45.81,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Pre,Left,7,1,Positive,0,27,,Living
+7059,50.55,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,6,1,Negative,1,24,,Living
+7060,69.25,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Negative,1,50,,Died of Other Causes
+7061,61.6,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,,4,0,Negative,1,20,,Died of Other Causes
+7062,63.77,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,,5,1,Positive,1,16,,Living
+7063,76.77,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,,7,1,Positive,1,20,,Living
+7065,45.35,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Left,6,1,Positive,1,19,,Living
+7066,64.24,BREAST CONSERVING,Breast Cancer,Low,1,Negative,0,Post,Right,7,1,Negative,1,18.5,,Living
+7067,69.64,MASTECTOMY,Breast Cancer,Low,0,Negative,1,Post,Left,4,1,Negative,0,15.5,,Living
+7068,58.95,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,7,1,Negative,1,26,,Living
+7069,67.6,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,14,1,Negative,1,21.5,,Living
+7070,68.76,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,1,Positive,0,2,,Living
+7071,27.56,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Pre,Left,22,1,Positive,1,18,,Living
+7072,71.24,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,0,Positive,1,65,,Died of Disease
+7073,54.69,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,,5,0,Negative,0,20,,Died of Other Causes
+7074,51.36,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,4,1,Negative,0,18,,Living
+7075,64.4,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,1,Negative,0,16,,Living
+7076,56.13,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,6,0,Positive,0,22,,Died of Other Causes
+7077,37.89,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,Right,6,1,Positive,1,17,,Living
+7078,74.8,MASTECTOMY,Breast Cancer,Moderate,0,Negative,1,Post,,6,0,Negative,1,50,,Died of Disease
+7079,70.3,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,5,1,Negative,0,30,,Living
+7080,64.01,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,1,Positive,0,17,,Living
+7081,69.12,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,1,Post,Right,6,1,Negative,1,28,,Living
+7082,57.07,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Post,Right,2,1,Negative,1,20,,Living
+7083,50.42,BREAST CONSERVING,Breast Cancer,,1,Positve,1,Post,Left,8,1,Positive,1,26,,Living
+7084,74.07,MASTECTOMY,Breast Cancer,High,0,Negative,1,Post,Right,4,1,Negative,0,60,,Living
+7085,60.5,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,3,1,Positive,1,30,,Living
+7086,70.52,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,,2,1,Positive,1,18,,Living
+7087,66.61,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Post,,6,0,Negative,1,14,,Died of Other Causes
+7088,72.05,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,9,1,Negative,0,25,,Living
+7089,47.7,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Pre,Right,10,1,Negative,1,18,,Living
+7090,48.52,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,4,1,Negative,1,17,,Living
+7091,55.71,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,,3,1,Positive,1,18,,Living
+7092,55.67,BREAST CONSERVING,Breast Cancer,High,0,Negative,1,Post,,10,1,Positive,1,20,,Living
+7093,76.25,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,Right,3,0,Positive,0,16.9,,Died of Other Causes
+7094,60.75,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,,3,1,Positive,1,24.4,,Living
+7095,74.64,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,3,1,Negative,1,25,,Living
+7096,48.27,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,,6,1,Positive,1,12.5,,Living
+7097,60.09,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,Left,10,0,Negative,0,40.3,,Died of Disease
+7099,80.31,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Positive,1,38,,Died of Other Causes
+7100,70.56,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Positive,1,28,,Died of Other Causes
+7101,49.16,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Pre,Right,5,1,Positive,1,15.5,,Living
+7102,73.16,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Positive,0,20,,Died of Other Causes
+7104,59.93,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,3,0,Negative,1,19,,Died of Other Causes
+7106,80.13,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,7,0,Positive,0,29,,Died of Disease
+7107,67.85,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,11,0,Negative,0,30,,Died of Disease
+7109,67.27,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,1,Positive,0,19,,Living
+7111,52.12,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,3,0,Positive,0,50,,Died of Disease
+7112,40.74,MASTECTOMY,Breast Cancer,Low,1,Positve,0,Pre,Left,2,0,Positive,0,40,,Died of Disease
+7113,66.04,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Positive,0,10,,Died of Other Causes
+7114,55.57,BREAST CONSERVING,Breast Cancer,High,0,Negative,1,Post,Left,8,1,Negative,1,16,,Living
+7115,80.56,MASTECTOMY,Breast Cancer,High,0,,1,Post,,5,0,Negative,1,70,,Died of Other Causes
+7116,77.17,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,11,0,Negative,0,40,,Died of Disease
+7118,70.15,MASTECTOMY,Breast Cancer,Moderate,0,,1,Post,Left,2,1,Positive,0,20,,Living
+7119,54.53,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Post,Left,8,1,Negative,1,23,,Living
+7121,49.02,MASTECTOMY,Breast Cancer,Low,1,Negative,1,Pre,Left,3,0,Negative,1,38,,Died of Other Causes
+7122,83.39,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,5,0,Negative,0,30,,Died of Other Causes
+7123,56.97,MASTECTOMY,Breast Cancer,Moderate,0,,1,Post,,7,1,Positive,0,36,,Living
+7124,71.16,MASTECTOMY,Breast Cancer,High,0,,1,Post,,3,1,Positive,0,20,,Living
+7127,52.43,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,1,Positive,1,19,,Living
+7128,71.05,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Positive,0,21,,Died of Other Causes
+7130,72.28,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,5,0,Negative,1,31,,Died of Disease
+7131,58.04,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,14,1,Negative,0,21,,Living
+7132,69.06,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,2,1,Positive,0,19,,Living
+7133,71.41,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,8,0,Negative,1,18,,Died of Disease
+7135,56.93,BREAST CONSERVING,Breast Cancer,Low,1,Negative,1,Post,,7,0,Negative,1,26,,Died of Disease
+7137,64.24,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,3,1,Negative,1,21,,Living
+7138,68.16,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Positive,1,22,,Died of Other Causes
+7140,58.27,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Right,8,0,Negative,0,60,,Died of Disease
+7141,78.16,MASTECTOMY,Breast Cancer,High,0,,1,Post,,8,1,Positive,0,11.8,,Living
+7142,55.52,MASTECTOMY,Breast Cancer,High,0,,1,Post,Right,2,0,Positive,0,13,,Died of Other Causes
+7143,61.38,BREAST CONSERVING,Breast Cancer,High,0,Negative,1,Post,Left,1,1,Negative,1,34,,Living
+7144,59.34,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,4,0,Positive,1,22.5,,Died of Other Causes
+7145,44.42,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Right,9,1,Negative,1,25,,Living
+7147,76.98,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,6,0,Positive,0,30,,Died of Other Causes
+7149,66.52,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,5,0,Negative,1,50,,Died of Other Causes
+7150,70.88,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,5,1,Negative,0,37,,Living
+7151,59.06,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,9,1,Negative,0,21,,Living
+7152,62.13,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,4,0,Negative,0,18,,Died of Other Causes
+7153,74.11,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,12,1,Negative,0,25,,Living
+7154,77.54,MASTECTOMY,Breast Cancer,High,0,Negative,1,Post,Right,14,0,Negative,0,32.6,,Died of Other Causes
+7155,41.14,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,5,1,Negative,1,17.2,,Living
+7157,56.86,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,1,Positive,1,19,,Living
+7158,50.73,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,,6,0,Negative,0,29,,Died of Disease
+7159,60.45,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Post,,3,0,Negative,1,34,,Died of Disease
+7160,51.34,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,11,1,Positive,1,23,,Living
+7161,47.67,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Pre,Left,3,1,Positive,1,46,,Living
+7162,59.84,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Right,2,1,Positive,1,13.8,,Living
+7163,43.81,MASTECTOMY,Breast Cancer,Moderate,1,Negative,1,Pre,,3,0,Positive,0,30,,Died of Disease
+7164,49.13,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,,5,1,Positive,1,15.7,,Living
+7165,28.78,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,7,1,Negative,1,182,,Living
+7167,43.26,MASTECTOMY,Breast Cancer,High,0,Positve,1,Pre,Left,5,1,Positive,1,85,,Living
+7168,60.33,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Right,9,1,Positive,0,25,,Living
+7170,58.56,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,15,1,Negative,1,20,,Living
+7171,71.82,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Positive,1,31,,Died of Other Causes
+7172,62.7,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,3,1,Positive,0,18.3,,Living
+7173,67.4,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Negative,0,21.6,,Died of Other Causes
+7174,60.63,BREAST CONSERVING,Breast Cancer,High,0,,1,Post,Right,6,1,Negative,1,20,,Living
+7176,50.51,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,2,0,Positive,1,28.5,,Died of Other Causes
+7181,63.09,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,6,1,Negative,1,21,,Living
+7182,58.26,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,,6,0,Negative,0,27,,Died of Disease
+7185,70.76,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,9,0,Positive,1,16.2,,Died of Disease
+7186,48.92,MASTECTOMY,Breast Cancer,High,0,Positve,0,Pre,,15,1,Positive,0,33,,Living
+7187,49.35,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,1,Pre,Left,7,0,Negative,1,2.3,,Died of Disease
+7189,58.75,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Post,Right,1,0,Negative,1,21,,Died of Disease
+7193,76.65,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,3,0,Positive,0,15.2,,Died of Other Causes
+7194,63.71,BREAST CONSERVING,Breast Cancer,High,1,Positve,1,Post,,5,0,Negative,0,21.5,,Died of Disease
+7195,72.99,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,3,0,Positive,0,25,,Died of Other Causes
+7196,67.99,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Positive,1,75,,Died of Disease
+7197,70.58,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Positive,0,20,,Died of Other Causes
+7198,67.89,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,4,0,Positive,0,40,,Died of Disease
+7199,81.14,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,4,0,Negative,0,20,,Died of Other Causes
+7200,71.69,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,7,0,Positive,1,23,,Died of Other Causes
+7201,62.07,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Right,4,1,Positive,1,16,,Living
+7205,38.17,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,1,Pre,,15,1,Negative,1,25,,Living
+7207,43.28,MASTECTOMY,Breast Cancer,,1,Negative,1,Pre,Right,4,0,Negative,1,30,,Died of Disease
+7208,48.83,MASTECTOMY,Breast Cancer,High,1,Negative,1,Pre,,4,0,Negative,1,31.1,,Died of Disease
+7212,62.26,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,3,0,Positive,0,14.3,,Died of Other Causes
+7215,60.15,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,,6,0,Negative,1,15.5,,Died of Other Causes
+7216,79.23,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,0,Positive,0,20,,Died of Other Causes
+7217,62.61,BREAST CONSERVING,Breast Cancer,Low,0,Positve,0,Post,Right,5,0,Positive,1,10,,Died of Other Causes
+7218,57.87,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,,5,1,Positive,1,12.6,,Living
+7219,60.07,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,3,1,Positive,1,12.5,,Living
+7220,70.97,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,0,Positive,1,25.1,,Died of Other Causes
+7225,49.61,MASTECTOMY,Breast Cancer,High,1,Negative,1,Pre,,5,0,Negative,1,38,,Died of Disease
+7226,67.88,MASTECTOMY,Breast Cancer,High,1,Positve,1,Post,,4,0,Negative,0,17.6,,Died of Disease
+7227,72.66,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,2,0,Negative,0,17,,Died of Other Causes
+7228,58.92,MASTECTOMY,Breast Cancer,Low,0,Positve,1,Post,Left,7,1,Positive,0,35,,Living
+7229,73.52,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,7,0,Positive,0,29,,Died of Other Causes
+7230,51.45,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,8,1,Positive,1,15,,Living
+7231,68.41,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Post,Left,8,0,Positive,0,38,,Died of Other Causes
+7232,58.37,MASTECTOMY,Breast Cancer,High,0,Positve,0,Post,Right,4,1,Positive,0,2.12,,Living
+7233,74.76,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,Left,6,0,Positive,0,21.3,,Died of Other Causes
+7234,63.43,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,4,1,Negative,1,8,,Living
+7235,62.45,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,12,1,Positive,0,20,,Living
+7236,51.46,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,1,0,Positive,1,22.32,,Died of Other Causes
+7237,77.37,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,10,0,Positive,0,18,,Died of Disease
+7238,71.11,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,7,0,Negative,0,27,,Died of Disease
+7241,47.85,MASTECTOMY,Breast Cancer,Moderate,0,Positve,0,Pre,,9,1,Positive,0,23,,Living
+7243,78.89,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,5,0,Negative,0,17,,Died of Other Causes
+7244,54.81,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,0,Post,Right,10,1,Positive,1,12,,Living
+7249,75.13,BREAST CONSERVING,Breast Cancer,Low,0,Positve,1,Post,,4,0,Positive,1,21,,Died of Other Causes
+7250,48.45,BREAST CONSERVING,Breast Cancer,Moderate,0,Negative,0,Pre,,10,0,Negative,1,17.7,,Died of Disease
+7251,54.66,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,1,0,Negative,0,15.47,,Died of Disease
+7252,74.8,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,9,0,Negative,0,35,,Died of Other Causes
+7253,69.72,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,3,0,Negative,0,25,,Died of Disease
+7254,62.46,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,8,1,Positive,0,23,,Living
+7256,50.92,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Post,,4,0,Negative,1,40,,Died of Disease
+7258,45.11,BREAST CONSERVING,Breast Cancer,High,1,Negative,1,Pre,,12,0,Negative,1,30,,Died of Disease
+7260,52.41,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,0,Post,Right,9,1,Negative,1,24.15,,Living
+7262,83.8,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,Left,10,0,Negative,0,40,,Died of Other Causes
+7263,63.89,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,Left,6,0,Positive,1,30,,Died of Other Causes
+7264,60.57,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,,3,0,Negative,1,35,,Died of Disease
+7266,59.82,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,,4,0,Positive,1,40,,Died of Disease
+7267,28.37,MASTECTOMY,Breast Cancer,Moderate,1,Negative,0,Pre,Left,7,0,Negative,1,20.5,,Died of Other Causes
+7268,34.64,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Pre,,6,1,Positive,1,50,,Living
+7269,36.6,BREAST CONSERVING,Breast Cancer,Moderate,1,Negative,1,Pre,,4,0,Negative,1,25,,Died of Disease
+7270,50.84,MASTECTOMY,Breast Cancer,High,1,Negative,0,Post,Left,8,1,Negative,0,16,,Living
+7273,47.47,BREAST CONSERVING,Breast Cancer,High,1,Negative,0,Pre,Left,5,1,Negative,1,20,,Living
+7275,30.02,MASTECTOMY,Breast Cancer,High,1,Negative,0,Pre,Right,8,0,Positive,0,20,,Died of Disease
+7276,61.27,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,,9,1,Positive,1,20,,Living
+7277,56.78,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,3,1,Positive,0,30,,Living
+7278,67.89,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,3,0,Positive,0,15,,Died of Other Causes
+7279,86.14,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,4,0,Positive,0,50,,Died of Disease
+7280,63.5,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,6,1,Positive,0,40,,Living
+7281,51.22,MASTECTOMY,Breast Cancer,Moderate,1,Positve,1,Post,,3,0,Negative,1,16,,Died of Disease
+7283,54.42,BREAST CONSERVING,Breast Cancer,Moderate,1,Positve,1,Post,,10,0,Negative,1,30,,Died of Disease
+7284,61.23,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Right,5,0,Negative,0,15,,Died of Other Causes
+7285,53.14,BREAST CONSERVING,Breast Cancer,Moderate,0,Positve,1,Post,,1,0,Positive,1,20,,Died of Disease
+7286,66.48,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,2,0,Negative,0,25,,Died of Other Causes
+7287,63.09,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,9,0,Positive,0,30,,Died of Disease
+7288,55.7,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,,2,0,Negative,1,30,,Died of Disease
+7289,51.87,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,5,0,Positive,0,65,,Died of Disease
+7291,53.87,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,4,0,Negative,0,50,,Died of Disease
+7292,52.9,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,,3,0,Positive,1,15,,Died of Disease
+7293,56.9,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,5,1,Positive,0,45,,Living
+7294,59.2,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,,2,0,Positive,0,15,,Died of Disease
+7295,43.1,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Pre,Right,4,1,Positive,1,25,,Living
+7296,42.88,MASTECTOMY,Breast Cancer,High,0,Positve,0,Pre,,6,0,Negative,1,20,,Died of Disease
+7297,62.9,MASTECTOMY,Breast Cancer,High,0,Positve,1,Post,Left,4,0,Positive,1,25,,Died of Disease
+7298,61.16,MASTECTOMY,Breast Cancer,Moderate,0,Positve,1,Post,,15,0,Positive,0,25,,Died of Other Causes
+7299,60.02,BREAST CONSERVING,Breast Cancer,High,0,Positve,1,Post,,3,0,Negative,1,20,,Died of Other Causes
